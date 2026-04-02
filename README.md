@@ -53,12 +53,12 @@ Each topic folder contains:
 4. For task topics — try to solve before looking at solution
 5. Use the checklist questions to test yourself
 
-### 🤝 Contributing
+<!--### 🤝 Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
 - Reporting bugs
 - Suggesting new topics
-- Submitting solutions
+- Submitting solutions-->
 
 ### 📄 License
 
@@ -112,12 +112,12 @@ MIT License — feel free to use this material for learning and teaching
 4. Для практических тем — сначала реши самостоятельно, потом смотри решение
 5. Используй контрольные вопросы для самопроверки
 
-### 🤝 Участие в разработке
+<!--### 🤝 Участие в разработке
 
 Смотри [CONTRIBUTING.md](CONTRIBUTING.md) для руководства по:
 - Сообщению об ошибках
 - Предложению новых тем
-- Отправке решений
+- Отправке решений-->
 
 ### 📄 Лицензия
 
