@@ -24,7 +24,17 @@
 <table> 
   <tr id="basic-level"> 
     <td colspan="4" align="center"><h3><strong>Basic Level (Engine Fundamentals and C# in Unity Context)</strong></h3></td> 
-  </tr> 
+  </tr>
+  <tr>
+    <td><em>№</em></td>
+    <td><em>Description</em></td>
+    <td><em>Links</em></td>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td>Unity Editor Interface: Hierarchy, Project, Inspector, Scene (Game/Scene view)</td>
+    <td><a href="Topics/01-Basic-Level/01-Unity-Editor-Interface/README.md">Theory</a></td>
+  </tr>
 </table>
 
 ---
@@ -138,6 +148,16 @@
 <table>
   <tr id="базовый-уровень">
     <td colspan="4", align="center"><h3><strong>Базовый уровень (Основы движка и C# в контексте Unity)</strong></h3></td>
+  </tr>
+  <tr>
+    <td><em>№</em></td>
+    <td><em>Описание</em></td>
+    <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td>Интерфейс Unity Editor: Иерархия, Проект, Инспектор, Сцена (Game/Scene view)</td>
+    <td><a href="Topics/01-Basic-Level/01-Unity-Editor-Interface/README.ru.md">Теория</a></td>
   </tr>
 </table>
 
