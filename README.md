@@ -36,6 +36,8 @@ This repository is a structured learning course for Unity, divided into **100 to
 | **Post-processing** | 90-91 | Post-Processing Stack, Renderer Features |
 | **Advanced Topics** | 92-100 | Compute Shaders, DOTS, Networking, UI Toolkit |
 
+[FULL LIST OF TOPICS](TOPICS_LIST.md)
+
 ### 📖 Topic Format
 
 Each topic folder contains:
@@ -95,7 +97,7 @@ MIT License — feel free to use this material for learning and teaching
 | **Постобработка** | 90-91 | Post-Processing Stack, Renderer Features |
 | **Продвинутые темы** | 92-100 | Compute Shaders, DOTS, сеть, UI Toolkit |
 
-[Полный список тем](TOPICS_LIST.md)
+[ПОЛНЫЙ СПИСОК ТЕМ](TOPICS_LIST.md)
 
 ### 📖 Формат темы
 
