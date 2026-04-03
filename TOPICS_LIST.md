@@ -5,7 +5,7 @@
 <a name="english"></a>
 ## English
 
-### 📑 Содержание
+### 📑 Content
 - [Basic Level](#basic-level)
 - [Working with Interface and Data](#working-with-interface-and-data)
 - [Advanced C# in Unity](#advanced-c)
