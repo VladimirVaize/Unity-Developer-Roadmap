@@ -6,18 +6,18 @@
 ## English
 
 ### 📑 Содержание
-- [Basic Level](#-basic-level)
-- [Working with Interface and Data](#-working-with-interface-and-data)
-- [Advanced C# in Unity](#-advanced-c)
-- [Graphics and Visuals](#-graphics-and-visuals)
-- [Architecture and Advanced Systems](#-architecture)
-- [Testing](#-testing)
-- [Physics and Platform Specifics](#-physics)
-- [Audio](#-audio)
-- [Optimization and Deployment](#-optimization)
-- [Version Control and Teamwork](#-version-control)
-- [Post-processing and Visual Effects](#-post-processing)
-- [Exotics and Advanced GameDev](#-exotics)
+- [Basic Level](#basic-level)
+- [Working with Interface and Data](#working-with-interface-and-data)
+- [Advanced C# in Unity](#advanced-c)
+- [Graphics and Visuals](#graphics-and-visuals)
+- [Architecture and Advanced Systems](#architecture)
+- [Testing](#testing)
+- [Physics and Platform Specifics](#physics)
+- [Audio](#audio)
+- [Optimization and Deployment](#optimization)
+- [Version Control and Teamwork](#version-control)
+- [Post-processing and Visual Effects](#post-processing)
+- [Exotics and Advanced GameDev](#exotics)
 
 ---
 
@@ -130,18 +130,18 @@
 ## Русский
 
 ### 📑 Содержание
-- [Базовый уровень](#-базовый-уровень)
-- [Работа с интерфейсом и данными](#-работа-с-интерфейсом)
-- [Продвинутый C# в Unity](#-продвинутый-c)
-- [Графика и визуал](#-графика-и-визуал)
-- [Архитектура и продвинутые системы](#-архитектура)
-- [Тестирование](#-тестирование)
-- [Физика и особенности платформ](#-физика)
-- [Аудио](#-аудио)
-- [Оптимизация и деплой](#-оптимизация)
-- [Версионирование и работа в команде](#-версионирование)
-- [Постобработка и визуальные эффекты](#-постобработка)
-- [Экзотика и продвинутый GameDev](#-экзотика)
+- [Базовый уровень](#базовый-уровень)
+- [Работа с интерфейсом и данными](#работа-с-интерфейсом)
+- [Продвинутый C# в Unity](#продвинутый-c)
+- [Графика и визуал](#графика-и-визуал)
+- [Архитектура и продвинутые системы](#архитектура)
+- [Тестирование](#тестирование)
+- [Физика и особенности платформ](#физика)
+- [Аудио](#аудио)
+- [Оптимизация и деплой](#оптимизация)
+- [Версионирование и работа в команде](#версионирование)
+- [Постобработка и визуальные эффекты](#постобработка)
+- [Экзотика и продвинутый GameDev](#экзотика)
 
 ---
 
