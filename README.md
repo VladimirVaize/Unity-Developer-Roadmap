@@ -95,6 +95,8 @@ MIT License — feel free to use this material for learning and teaching
 | **Постобработка** | 90-91 | Post-Processing Stack, Renderer Features |
 | **Продвинутые темы** | 92-100 | Compute Shaders, DOTS, сеть, UI Toolkit |
 
+[Полный список тем](TOPICS_LIST.md)
+
 ### 📖 Формат темы
 
 Каждая папка с темой содержит:
