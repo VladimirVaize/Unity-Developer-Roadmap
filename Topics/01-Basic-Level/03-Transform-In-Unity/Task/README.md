@@ -27,7 +27,7 @@ Create a new 3D scene. It will contain:
 
 ### 3️⃣ Rotation using Quaternion (LookRotation)
 - Create an empty object `Target` at position `(2, 1, 0)`.
-- Write a script <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Solution/FaceTarget.cs"><code>FaceTarget</code></a> for `ChildCube`: use `Quaternion.LookRotation` so that the red cube always faces `Target`. Do not use Euler.
+- Write a script <a href="../Solution/FaceTarget.cs"><code>FaceTarget</code></a> for `ChildCube`: use `Quaternion.LookRotation` so that the red cube always faces `Target`. Do not use Euler.
 - Test: move `Target` with the mouse in Scene View — `ChildCube` should rotate instantly.
 
 ### 4️⃣ Scale and global coordinates
@@ -36,15 +36,15 @@ Create a new 3D scene. It will contain:
 - Change `ChildCube`'s local scale to `(0.5, 1, 1)`. Calculate the final X size manually.
 
 ### 5️⃣ Bonus (optional)
-- Write an <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Solution/Orbit.cs"><code>Orbit</code></a> script that rotates `ChildCube` around `ParentHolder` in a circle using `transform.RotateAround`. Parameters: speed 30° per second, Y axis.
+- Write an <a href="../Solution/Orbit.cs"><code>Orbit</code></a> script that rotates `ChildCube` around `ParentHolder` in a circle using `transform.RotateAround`. Parameters: speed 30° per second, Y axis.
 
 ---
 
 ## ✅ What is being checked (for self-checking)
 
-- Scripts <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Solution/RotateEnemy.cs"><code>RotateEnemy</code></a>,
-  <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Solution/FaceTarget.cs"><code>FaceTarget</code></a>,
-  <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Solution/Orbit.cs"><code>Orbit</code></a> (if done).
+- Scripts <a href="../Solution/RotateEnemy.cs"><code>RotateEnemy</code></a>,
+  <a href="../Solution/FaceTarget.cs"><code>FaceTarget</code></a>,
+  <a href="../Solution/Orbit.cs"><code>Orbit</code></a> (if done).
 - Console output values (task 4) and the answer to the `lossyScale` question.
 
 ---
