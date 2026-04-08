@@ -35,6 +35,11 @@
     <td>Unity Editor Interface: Hierarchy, Project, Inspector, Scene (Game/Scene view)</td>
     <td><a href="Topics/01-Basic-Level/01-Unity-Editor-Interface/README.md">Theory</a></td>
   </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td>GameObject and Component: Container vs Behavior</td>
+    <td><a href="Topics/01-Basic-Level/02-GameObject-Component/README.md">Theory</a></td>
+  </tr>
 </table>
 
 ---
@@ -158,6 +163,11 @@
     <td><strong>1</strong></td>
     <td>Интерфейс Unity Editor: Иерархия, Проект, Инспектор, Сцена (Game/Scene view)</td>
     <td><a href="Topics/01-Basic-Level/01-Unity-Editor-Interface/README.ru.md">Теория</a></td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td>GameObject и Component: Контейнер vs Поведение</td>
+    <td><a href="Topics/01-Basic-Level/02-GameObject-Component/README.ru.md">Теория</a></td>
   </tr>
 </table>
 
