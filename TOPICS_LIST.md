@@ -43,6 +43,14 @@
       <a href="Topics/01-Basic-Level/02-GameObject-Component/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td>Transform in Unity: Position, Rotation, Scale, and Hierarchy</td>
+    <td>
+      <a href="Topics/01-Basic-Level/03-Transform-In-Unity/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -173,6 +181,14 @@
     <td>
       <a href="Topics/01-Basic-Level/02-GameObject-Component/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/02-GameObject-Component/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td>Transform в Unity: Позиция, Поворот, Масштаб и Иерархия</td>
+    <td>
+      <a href="Topics/01-Basic-Level/03-Transform-In-Unity/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
