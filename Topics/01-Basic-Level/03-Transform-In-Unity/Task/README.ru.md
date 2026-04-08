@@ -27,12 +27,12 @@
 
 - Установите `EnemyCube` (синий куб) в позицию `(0, 1, 5)`.
 - Поверните его по оси `Y` на 45° через инспектор (Euler).
-- Напишите короткий скрипт `RotateEnemy`, который в методе `Update()` каждую секунду увеличивает `transform.eulerAngles.y` на `30°`. Прикрепите к `EnemyCube`.
+- Напишите короткий скрипт <a href="../Solution/RotateEnemy.cs"><code>RotateEnemy</code></a>, который в методе `Update()` каждую секунду увеличивает `transform.eulerAngles.y` на `30°`. Прикрепите к `EnemyCube`.
 
 ### 3️⃣ Поворот через Quaternion (LookRotation)
 
 - Создайте пустой объект `Target` в позиции `(2, 1, 0)`.
-- Напишите скрипт `FaceTarget` для `ChildCube`: используйте `Quaternion.LookRotation`, чтобы красный куб всегда смотрел в сторону `Target`. Не используйте Euler.
+- Напишите скрипт <a href="../Solution/FaceTarget.cs"><code>FaceTarget</code></a> для `ChildCube`: используйте `Quaternion.LookRotation`, чтобы красный куб всегда смотрел в сторону `Target`. Не используйте Euler.
 - Проверьте: перемещайте `Target` мышью в Scene View — `ChildCube` должен поворачиваться мгновенно.
 
 ### 4️⃣ Масштаб и глобальные координаты
@@ -43,10 +43,12 @@
 
 ### 5️⃣ Бонус (необязательно)
 
-- Напишите скрипт `Orbit`, который вращает `ChildCube` вокруг `ParentHolder` по кругу, используя `transform.RotateAround`. Параметры: скорость 30° в секунду, ось Y.
+- Напишите скрипт <a href="../Solution/Orbit.cs"><code>Orbit</code></a>, который вращает `ChildCube` вокруг `ParentHolder` по кругу, используя `transform.RotateAround`. Параметры: скорость 30° в секунду, ось Y.
 
 ### ✅ Что проверяется (для самопроверки)
-- Скрипты `RotateEnemy`, `FaceTarget`, `Orbit` (если делали).
+- Скрипты <a href="../Solution/RotateEnemy.cs"><code>RotateEnemy</code></a>,
+  <a href="../Solution/FaceTarget.cs"><code>FaceTarget</code></a>,
+  <a href="../Solution/Orbit.cs"><code>Orbit</code></a> (если делали).
 - Значения из консоли (п. 4) и ответ на вопрос про `lossyScale`.
 
 ---
