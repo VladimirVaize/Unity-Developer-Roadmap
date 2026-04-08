@@ -38,7 +38,10 @@
   <tr>
     <td><strong>2</strong></td>
     <td>GameObject and Component: Container vs Behavior</td>
-    <td><a href="Topics/01-Basic-Level/02-GameObject-Component/README.md">Theory</a></td>
+    <td>
+      <a href="Topics/01-Basic-Level/02-GameObject-Component/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/02-GameObject-Component/Task/README.md">Practice</a>
+    </td>
   </tr>
 </table>
 
@@ -167,7 +170,10 @@
   <tr>
     <td><strong>2</strong></td>
     <td>GameObject и Component: Контейнер vs Поведение</td>
-    <td><a href="Topics/01-Basic-Level/02-GameObject-Component/README.ru.md">Теория</a></td>
+    <td>
+      <a href="Topics/01-Basic-Level/02-GameObject-Component/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/02-GameObject-Component/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
