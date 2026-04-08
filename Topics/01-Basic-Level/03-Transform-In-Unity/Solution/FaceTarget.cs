@@ -3,6 +3,7 @@ using UnityEngine;
 public class FaceTarget : MonoBehaviour
 {
     private GameObject _target;
+    
     private void Awake()
     {
         _target = GameObject.Find("Target");
