@@ -23,7 +23,7 @@ Create a new 3D scene. It will contain:
 ### 2️⃣ Position and rotation using Euler
 - Place `EnemyCube` (blue cube) at position `(0, 1, 5)`.
 - Rotate it around the Y axis by `45°` via the Inspector (Euler).
-- Write a short script <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Solution/RotateEnemy.cs"><code>RotateEnemy</code></a> that in `Update()` increases `transform.eulerAngles.y` by `30°` every second. Attach it to `EnemyCube`.
+- Write a short script <a href="../Solution/RotateEnemy.cs"><code>RotateEnemy</code></a> that in `Update()` increases `transform.eulerAngles.y` by `30°` every second. Attach it to `EnemyCube`.
 
 ### 3️⃣ Rotation using Quaternion (LookRotation)
 - Create an empty object `Target` at position `(2, 1, 0)`.
