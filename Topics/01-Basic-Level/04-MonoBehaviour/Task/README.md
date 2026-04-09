@@ -45,7 +45,11 @@ Add a UI Button that disables and then re-enables the `PlayerMovement` script, a
 
 ## 📤 Self-check
 
-- Full code of `PlayerMovement.cs`.
+- Full code of <a href="../Solution/PlayerMovement.cs"><code>PlayerMovement.cs</code></a>.
+
+---
+
+#### Additional resources for working <a href="../Solution/PlayerMovement.cs"><code>PlayerMovement.cs</code></a> -> <a href="../Assets">Assets</a>
 
 ---
 
