@@ -44,7 +44,11 @@
 ---
 
 ## 📤 Самопроверка
-- Полный код скрипта `PlayerMovement.cs`.
+- Полный код скрипта <a href="../Solution/PlayerMovement.cs"><code>PlayerMovement.cs</code></a>.
+
+---
+
+#### Доп. ресурсы для работы <a href="../Solution/PlayerMovement.cs"><code>PlayerMovement.cs</code></a> -> <a href="../Assets">Assets</a>
 
 ---
 
