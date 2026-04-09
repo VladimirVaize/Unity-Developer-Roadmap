@@ -51,6 +51,14 @@
       <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td>MonoBehaviour: Script Lifecycle</td>
+    <td>
+      <a href="Topics/01-Basic-Level/04-MonoBehaviour/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/04-MonoBehaviour/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -189,6 +197,14 @@
     <td>
       <a href="Topics/01-Basic-Level/03-Transform-In-Unity/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td>MonoBehaviour: Жизненный цикл скрипта</td>
+    <td>
+      <a href="Topics/01-Basic-Level/04-MonoBehaviour/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/04-MonoBehaviour/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
