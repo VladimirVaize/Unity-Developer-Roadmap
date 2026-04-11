@@ -59,6 +59,14 @@
       <a href="Topics/01-Basic-Level/04-MonoBehaviour/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>5</strong></td>
+    <td>Vector Mathematics in Unity: Fundamentals for Game Logic</td>
+    <td>
+      <a href="Topics/01-Basic-Level/05-Vector-Mathematics/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/05-Vector-Mathematics/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -205,6 +213,14 @@
     <td>
       <a href="Topics/01-Basic-Level/04-MonoBehaviour/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/04-MonoBehaviour/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>5</strong></td>
+    <td>Векторная математика в Unity: Основы для игровой логики</td>
+    <td>
+      <a href="Topics/01-Basic-Level/05-Vector-Mathematics/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/05-Vector-Mathematics/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
