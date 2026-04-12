@@ -40,4 +40,10 @@
 
 ---
 
+## Решение:
+- <a href="../Solution/Turret.cs"><code>Turret.cs</code></a>
+- Управление для Player можно взять из <code>04-MonoBehaviour</code> темы. -> <a href="../../04-MonoBehaviour/Solution/PlayerMovement.cs"><code>PlayerMovement.cs</code></a>
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
