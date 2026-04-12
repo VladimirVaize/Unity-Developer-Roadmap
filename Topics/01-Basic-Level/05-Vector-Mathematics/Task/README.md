@@ -41,4 +41,10 @@ The turret reacts naturally, without sharp rotations, and only fires within the 
 
 ---
 
+## Solution:
+- <a href="../Solution/Turret.cs"><code>Turret.cs</code></a>
+- Movement for Player can be taken from <code>04-MonoBehaviour</code> topic. -> <a href="../../04-MonoBehaviour/Solution/PlayerMovement.cs"><code>PlayerMovement.cs</code></a>
+
+---
+
 ### ⭐ If this project was useful, put a star on GitHub!
