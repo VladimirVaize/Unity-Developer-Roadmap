@@ -47,4 +47,10 @@ Ground               (plane with collider)
 
 ---
 
+### Solution:
+
+- <a href="../Solution/PlayerController.cs"><code>PlayerController.cs</code></a>
+
+---
+
 ### ⭐ If this project was useful, put a star on GitHub!
