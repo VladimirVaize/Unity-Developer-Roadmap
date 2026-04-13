@@ -75,6 +75,14 @@
       <a href="Topics/01-Basic-Level/06-Old-Input-Manager/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>7</strong></td>
+    <td>Prefabs in Unity: Creation, Applying Changes, Nested Prefabs</td>
+    <td>
+      <a href="Topics/01-Basic-Level/07-Prefabs/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/07-Prefabs/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -237,6 +245,14 @@
     <td>
       <a href="Topics/01-Basic-Level/06-Old-Input-Manager/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/06-Old-Input-Manager/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>7</strong></td>
+    <td>Префабы (Prefabs) в Unity: Создание, изменение, вложенные префабы</td>
+    <td>
+      <a href="Topics/01-Basic-Level/07-Prefabs/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/07-Prefabs/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
