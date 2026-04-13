@@ -47,4 +47,10 @@ Ground               (плоскость с коллайдером)
 
 ---
 
+### Решение:
+
+- <a href="../Solution/PlayerController.cs"><code>PlayerController.cs</code></a>
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
