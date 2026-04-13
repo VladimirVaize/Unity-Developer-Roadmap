@@ -82,3 +82,6 @@ However, each knight can still have their own cloak color (this change does not 
 - ✅ Whole levels or rooms (as nested prefabs).
 - ✅ Any object that repeats more than 1-2 times in your project.
 
+---
+
+### ⭐ If this project was useful, put a star on GitHub!
