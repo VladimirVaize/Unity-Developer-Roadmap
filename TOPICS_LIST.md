@@ -32,12 +32,12 @@
   </tr>
   <tr>
     <td><strong>1</strong></td>
-    <td>Unity Editor Interface: Hierarchy, Project, Inspector, Scene (Game/Scene view)</td>
+    <td><code>Unity Editor Interface</code>: Hierarchy, Project, Inspector, Scene (Game/Scene view)</td>
     <td><a href="Topics/01-Basic-Level/01-Unity-Editor-Interface/README.md">Theory</a></td>
   </tr>
   <tr>
     <td><strong>2</strong></td>
-    <td>GameObject and Component: Container vs Behavior</td>
+    <td><code>GameObject</code> and <code>Component</code>: Container vs Behavior</td>
     <td>
       <a href="Topics/01-Basic-Level/02-GameObject-Component/README.md">Theory</a> , 
       <a href="Topics/01-Basic-Level/02-GameObject-Component/Task/README.md">Practice</a>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td><strong>3</strong></td>
-    <td>Transform in Unity: Position, Rotation, Scale, and Hierarchy</td>
+    <td><code>Transform</code> in Unity: Position, Rotation, Scale, and Hierarchy</td>
     <td>
       <a href="Topics/01-Basic-Level/03-Transform-In-Unity/README.md">Theory</a> , 
       <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Task/README.md">Practice</a>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td><strong>4</strong></td>
-    <td>MonoBehaviour: Script Lifecycle</td>
+    <td><code>MonoBehaviour</code>: Script Lifecycle</td>
     <td>
       <a href="Topics/01-Basic-Level/04-MonoBehaviour/README.md">Theory</a> , 
       <a href="Topics/01-Basic-Level/04-MonoBehaviour/Task/README.md">Practice</a>
@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td><strong>5</strong></td>
-    <td>Vector Mathematics in Unity: Fundamentals for Game Logic</td>
+    <td><code>Vector Mathematics</code> in Unity: Fundamentals for Game Logic</td>
     <td>
       <a href="Topics/01-Basic-Level/05-Vector-Mathematics/README.md">Theory</a> , 
       <a href="Topics/01-Basic-Level/05-Vector-Mathematics/Task/README.md">Practice</a>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td><strong>6</strong></td>
-    <td>Input Handling in Unity: Old Input Manager (GetKey, GetAxis, GetMouseButton)</td>
+    <td>Input Handling in Unity: Old <code>Input Manager</code> (GetKey, GetAxis, GetMouseButton)</td>
     <td>
       <a href="Topics/01-Basic-Level/06-Old-Input-Manager/README.md">Theory</a> , 
       <a href="Topics/01-Basic-Level/06-Old-Input-Manager/Task/README.md">Practice</a>
@@ -77,10 +77,18 @@
   </tr>
   <tr>
     <td><strong>7</strong></td>
-    <td>Prefabs in Unity: Creation, Applying Changes, Nested Prefabs</td>
+    <td><code>Prefabs</code> in Unity: Creation, Applying Changes, Nested Prefabs</td>
     <td>
       <a href="Topics/01-Basic-Level/07-Prefabs/README.md">Theory</a> , 
       <a href="Topics/01-Basic-Level/07-Prefabs/Task/README.md">Practice</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>8</strong></td>
+    <td><code>Instantiate</code> and <code>Destroy</code>: Creating and Destroying Objects at Runtime</td>
+    <td>
+      <a href="Topics/01-Basic-Level/08-Instantiate-and-Destroy/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/08-Instantiate-and-Destroy/Task/README.md">Practice</a>
     </td>
   </tr>
 </table>
@@ -204,12 +212,12 @@
   </tr>
   <tr>
     <td><strong>1</strong></td>
-    <td>Интерфейс Unity Editor: Иерархия, Проект, Инспектор, Сцена (Game/Scene view)</td>
+    <td><code>Интерфейс Unity Editor</code>: Иерархия, Проект, Инспектор, Сцена (Game/Scene view)</td>
     <td><a href="Topics/01-Basic-Level/01-Unity-Editor-Interface/README.ru.md">Теория</a></td>
   </tr>
   <tr>
     <td><strong>2</strong></td>
-    <td>GameObject и Component: Контейнер vs Поведение</td>
+    <td><code>GameObject</code> и <code>Component</code>: Контейнер vs Поведение</td>
     <td>
       <a href="Topics/01-Basic-Level/02-GameObject-Component/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/02-GameObject-Component/Task/README.ru.md">Практика</a>
@@ -217,7 +225,7 @@
   </tr>
   <tr>
     <td><strong>3</strong></td>
-    <td>Transform в Unity: Позиция, Поворот, Масштаб и Иерархия</td>
+    <td><code>Transform</code> в Unity: Позиция, Поворот, Масштаб и Иерархия</td>
     <td>
       <a href="Topics/01-Basic-Level/03-Transform-In-Unity/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/03-Transform-In-Unity/Task/README.ru.md">Практика</a>
@@ -225,7 +233,7 @@
   </tr>
   <tr>
     <td><strong>4</strong></td>
-    <td>MonoBehaviour: Жизненный цикл скрипта</td>
+    <td><code>MonoBehaviour</code>: Жизненный цикл скрипта</td>
     <td>
       <a href="Topics/01-Basic-Level/04-MonoBehaviour/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/04-MonoBehaviour/Task/README.ru.md">Практика</a>
@@ -233,7 +241,7 @@
   </tr>
   <tr>
     <td><strong>5</strong></td>
-    <td>Векторная математика в Unity: Основы для игровой логики</td>
+    <td><code>Векторная математика</code> в Unity: Основы для игровой логики</td>
     <td>
       <a href="Topics/01-Basic-Level/05-Vector-Mathematics/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/05-Vector-Mathematics/Task/README.ru.md">Практика</a>
@@ -241,7 +249,7 @@
   </tr>
   <tr>
     <td><strong>6</strong></td>
-    <td>Ввод данных в Unity: старый Input Manager (GetKey, GetAxis, GetMouseButton)</td>
+    <td>Ввод данных в Unity: старый <code>Input Manager</code> (GetKey, GetAxis, GetMouseButton)</td>
     <td>
       <a href="Topics/01-Basic-Level/06-Old-Input-Manager/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/06-Old-Input-Manager/Task/README.ru.md">Практика</a>
@@ -249,10 +257,18 @@
   </tr>
   <tr>
     <td><strong>7</strong></td>
-    <td>Префабы (Prefabs) в Unity: Создание, изменение, вложенные префабы</td>
+    <td>Префабы (<code>Prefabs</code>) в Unity: Создание, изменение, вложенные префабы</td>
     <td>
       <a href="Topics/01-Basic-Level/07-Prefabs/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/07-Prefabs/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>8</strong></td>
+    <td><code>Instantiate</code> и <code>Destroy</code>: Создание и уничтожение объектов во время выполнения</td>
+    <td>
+      <a href="Topics/01-Basic-Level/08-Instantiate-and-Destroy/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/08-Instantiate-and-Destroy/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
