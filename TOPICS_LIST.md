@@ -99,6 +99,14 @@
       <a href="Topics/01-Basic-Level/09-Colliders-Triggers-PhysicMaterials/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>10</strong></td>
+    <td><code>Rigidbody</code>: Forces, Gravity, and Kinematic Mode</td>
+    <td>
+      <a href="Topics/01-Basic-Level/10-Rigidbody/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/10-Rigidbody/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -285,6 +293,14 @@
     <td>
       <a href="Topics/01-Basic-Level/09-Colliders-Triggers-PhysicMaterials/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/09-Colliders-Triggers-PhysicMaterials/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10</strong></td>
+    <td><code>Rigidbody</code>: Силы, гравитация и кинематика</td>
+    <td>
+      <a href="Topics/01-Basic-Level/10-Rigidbody/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/10-Rigidbody/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
