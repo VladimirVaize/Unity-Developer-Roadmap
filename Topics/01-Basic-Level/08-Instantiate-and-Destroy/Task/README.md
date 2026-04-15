@@ -43,4 +43,8 @@ Write a working object spawning and destruction system that demonstrates the ful
 
 ---
 
+### A comparison <a href="../Solution">solution</a>
+
+---
+
 ### ⭐ If this project was useful, put a star on GitHub!
