@@ -107,6 +107,14 @@
       <a href="Topics/01-Basic-Level/10-Rigidbody/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>11</strong></td>
+    <td><code>Camera in Unity</code>: Projections, Clear Flags, Culling Mask & Render Texture</td>
+    <td>
+      <a href="Topics/01-Basic-Level/11-Camera-in-Unity/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/11-Camera-in-Unity/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -301,6 +309,14 @@
     <td>
       <a href="Topics/01-Basic-Level/10-Rigidbody/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/10-Rigidbody/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>11</strong></td>
+    <td><code>Камера в Unity</code>: Проекции, Clear Flags, Culling Mask и Render Texture</td>
+    <td>
+      <a href="Topics/01-Basic-Level/11-Camera-in-Unity/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/11-Camera-in-Unity/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
