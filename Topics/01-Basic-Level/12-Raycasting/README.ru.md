@@ -20,7 +20,7 @@ Ray ray = new Ray(originPoint, directionVector);
 
 ### 2. RaycastHit (Информация о попадании)
 
-Если луч попадает в объект, Unity заполняет структуру RaycastHit. Она содержит:
+Если луч попадает в объект, Unity заполняет структуру `RaycastHit`. Она содержит:
 - `point` — точка столкновения в мировых координатах.
 - `normal` — нормаль поверхности, в которую попал луч.
 - `collider` — коллайдер объекта, с которым произошло столкновение.
@@ -55,7 +55,7 @@ if (Physics.Raycast(ray, out hit, 100f, enemyLayer))
 }
 ```
 
-Битовые операции с LayerMask:
+#### Битовые операции с LayerMask:
 ```csharp
 // Игнорировать слой "Player"
 int layerToIgnore = LayerMask.NameToLayer("Player");
@@ -70,7 +70,6 @@ LayerMask mask = LayerMask.GetMask("Enemy", "Wall");
 ## 🎯 Типы лучей (Raycast)
 
 ### 1. Из камеры в точку экрана (клик мыши)
-
 Самый частый сценарий: определение объекта, на который нажал игрок.
 ```csharp
 void Update()
