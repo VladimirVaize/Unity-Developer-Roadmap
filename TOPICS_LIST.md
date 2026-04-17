@@ -115,6 +115,14 @@
       <a href="Topics/01-Basic-Level/11-Camera-in-Unity/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>12</strong></td>
+    <td><code>Raycasting</code> in Unity: Camera/Point Ray, LayerMask, RaycastHit</td>
+    <td>
+      <a href="Topics/01-Basic-Level/12-Raycasting/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/12-Raycasting/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -317,6 +325,14 @@
     <td>
       <a href="Topics/01-Basic-Level/11-Camera-in-Unity/README.ru.md">Теория</a> ,
       <a href="Topics/01-Basic-Level/11-Camera-in-Unity/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>12</strong></td>
+    <td><code>Raycasting</code> в Unity: Луч из камеры/точки, LayerMask, RaycastHit</td>
+    <td>
+      <a href="Topics/01-Basic-Level/12-Raycasting/README.ru.md">Теория</a> ,
+      <a href="Topics/01-Basic-Level/12-Raycasting/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
