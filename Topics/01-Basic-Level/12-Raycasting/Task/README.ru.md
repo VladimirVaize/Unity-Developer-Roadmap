@@ -106,4 +106,16 @@ public class LightSwitch : MonoBehaviour, IInteractable
 
 ---
 
+## Решение
+- <a href="../Solution">Файлы с решением</a>
+- <a href="../Assets/FPS">FPS-контроллер</a>
+   - Помести MainCamera в GameObject "Player"
+   - Назначь скрипт <a href="../Assets/FPS/PlayerCameraRotation.cs">PlayerCameraRotation.cs</a> на MainCamera
+   - Назначь скрипт <a href="../Assets/FPS/PlayerMovement.cs">PlayerMovement.cs</a> на Player
+ 
+> [!WARNING]
+> В решении используется новый `Input System Package` доступный в `Unity 6+`
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
