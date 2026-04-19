@@ -8,11 +8,11 @@ The power-up is collected on the scene, activates for 5 seconds, gives the playe
 
 ## ✅ Requirements
 
-### 1. `PowerUp` Script (attached to the power-up object on the scene):
+### 1. <a href="../Solution/PowerUp.cs"><code>PowerUp</code></a> Script (attached to the power-up object on the scene):
   - Upon collision with the player (`OnTriggerEnter`), the power-up should disappear (visually and the collider) and call the activation method on the player.
   - After activation, the power-up should not be visible (can be destroyed or disabled).
 
-### 2. `PlayerPowerUp` Script (attached to the player):
+### 2. <a href="../Solution/PlayerPowerUp.cs"><code>PlayerPowerUp</code></a> Script (attached to the player):
   - Method `ActivateSpeedBoost(float duration)` — starts the power-up coroutine.
   - The coroutine must:
     - Increase the player's speed (e.g., `moveSpeed *= 2`).
