@@ -347,8 +347,8 @@
     <td><strong>13</strong></td>
     <td><code>Корутины</code> в Unity: IEnumerator, WaitForSeconds, отложенные действия</td>
     <td>
-      <a href="Topics/01-Basic-Level/13-Coroutines/README.md">Теория</a> , 
-      <a href="Topics/01-Basic-Level/13-Coroutines/Task/README.md">Практика</a>
+      <a href="Topics/01-Basic-Level/13-Coroutines/README.ru.md">Теория</a> , 
+      <a href="Topics/01-Basic-Level/13-Coroutines/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
