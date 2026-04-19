@@ -131,6 +131,14 @@
       <a href="Topics/01-Basic-Level/13-Coroutines/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>14</strong></td>
+    <td><code>PlayerPrefs</code>: Simple Data Saving in Unity</td>
+    <td>
+      <a href="Topics/01-Basic-Level/14-PlayerPrefs/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/14-PlayerPrefs/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -349,6 +357,14 @@
     <td>
       <a href="Topics/01-Basic-Level/13-Coroutines/README.ru.md">Теория</a> , 
       <a href="Topics/01-Basic-Level/13-Coroutines/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>14</strong></td>
+    <td><code>PlayerPrefs</code>: Простое сохранение данных в Unity</td>
+    <td>
+      <a href="Topics/01-Basic-Level/14-PlayerPrefs/README.ru.md">Теория</a> , 
+      <a href="Topics/01-Basic-Level/14-PlayerPrefs/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
