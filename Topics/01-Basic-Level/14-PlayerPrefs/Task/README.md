@@ -44,4 +44,10 @@ If `Reset Score` is pressed, the current streak resets to 0, but the record stre
 
 ---
 
+## Solution
+
+- <a href="../Solution/PlayerPrefsDemo.cs">PlayerPrefsDemo.cs</a> script.
+
+---
+
 ### ⭐ If this project was useful, put a star on GitHub!
