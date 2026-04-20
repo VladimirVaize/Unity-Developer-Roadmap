@@ -44,4 +44,10 @@
 
 ---
 
+## Решение
+
+- Скрипт <a href="../Solution/PlayerPrefsDemo.cs">PlayerPrefsDemo.cs</a>.
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
