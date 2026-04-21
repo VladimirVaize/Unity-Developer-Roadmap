@@ -139,6 +139,14 @@
       <a href="Topics/01-Basic-Level/14-PlayerPrefs/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>15</strong></td>
+    <td>Collision Events in Unity: <code>OnCollisionEnter</code> and <code>OnTriggerEnter</code></td>
+    <td>
+      <a href="Topics/01-Basic-Level/15-Collision-Events/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/15-Collision-Events/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -365,6 +373,14 @@
     <td>
       <a href="Topics/01-Basic-Level/14-PlayerPrefs/README.ru.md">Теория</a> , 
       <a href="Topics/01-Basic-Level/14-PlayerPrefs/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>15</strong></td>
+    <td>События столкновений в Unity: <code>OnCollisionEnter</code> и <code>OnTriggerEnter</code></td>
+    <td>
+      <a href="Topics/01-Basic-Level/15-Collision-Events/README.ru.md">Теория</a> , 
+      <a href="Topics/01-Basic-Level/15-Collision-Events/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
