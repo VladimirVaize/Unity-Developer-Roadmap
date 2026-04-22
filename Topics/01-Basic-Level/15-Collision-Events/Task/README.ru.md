@@ -23,35 +23,18 @@
   - `Rigidbody` (кинематический или нет — на ваше усмотрение, но для столкновения нужен хотя бы один Rigidbody на сцене).
  
 ### 2. Скрипт игрока (`PlayerController` + события)
-Напишите скрипт `PlayerCollisionHandler`, который содержит:
-```csharp
-public int score = 0;
-public int health = 3;
-
-void OnTriggerEnter(Collider other)
-{
-    if (other.CompareTag("Coin"))
-    {
-        Destroy(other.gameObject);
-        score++;
-        Debug.Log("Монета собрана! Очки: " + score);
-    }
-}
-
-void OnCollisionEnter(Collision collision)
-{
-    if (collision.gameObject.CompareTag("Enemy"))
-    {
-        health--;
-        Debug.Log("Урон! Здоровье: " + health);
-        if (health <= 0)
-        {
-            Debug.Log("Игра окончена!");
-            // можно отключить управление или перезагрузить сцену
-        }
-    }
-}
-```
+Напишите скрипт <a href="../Solution/PlayerCollisionHandler.cs"><code>PlayerCollisionHandler</code></a>, который содержит:
+- Хранит значения `score` и `health`
+- `OnTriggerEnter(Collider other)` - Столкновение с монетой
+  - Проверка через `CompareTag("Coin")`
+  - Увеличивает значение `score`
+  - Уничтожает монету (`Destroy`)
+  - Выводит сообщение `"Монета собрана! Очки: " + score`
+- `OnCollisionEnter(Collision collision)` - Столкновение с врагом
+  - Проверка через `gameObject.CompareTag("Enemy")`
+  - Уменьшает значение `health`
+  -  Выводит сообщение `"Урон! Здоровье: " + health`
+  -  При `health <= 0` выводит сообщение `"Игра окончена!"`
 
 ### 3. Дополнительные требования
 
