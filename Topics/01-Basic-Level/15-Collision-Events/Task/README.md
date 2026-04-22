@@ -23,35 +23,19 @@ The task reinforces the use of OnCollisionEnter and OnTriggerEnter, their differ
   - `Rigidbody` (kinematic or not — your choice, but at least one Rigidbody must exist in the scene for collisions).
  
 ### 2. Player Script (`PlayerController` + events)
-Write a script `PlayerCollisionHandler` that contains:
-```csharp
-public int score = 0;
-public int health = 3;
+Write a script <a href="../Solution/PlayerCollisionHandler.cs"><code>PlayerCollisionHandler</code></a> that contains:
+- Stores the values of `score` and `health`
+- `OnTriggerEnter(Collider other)` - Collision with a coin
+  - Verification via `CompareTag("Coin")`
+  - Increases the value of the `score`
+  - Destroys the coin (`Destroy`)
+  - Displays the message `"Coin collected! Score: " + score`
+- `OnCollisionEnter(Collision collision)` - Clash with the enemy
+  - Verification via `GameObject.CompareTag("Enemy")`
+  - Reduces the value of `health`
+  - Displays the message `"Damage! Health: " + health`
+  - When `health <= 0` displays the message `"Game over!"`
 
-void OnTriggerEnter(Collider other)
-{
-    if (other.CompareTag("Coin"))
-    {
-        Destroy(other.gameObject);
-        score++;
-        Debug.Log("Coin collected! Score: " + score);
-    }
-}
-
-void OnCollisionEnter(Collision collision)
-{
-    if (collision.gameObject.CompareTag("Enemy"))
-    {
-        health--;
-        Debug.Log("Damage! Health: " + health);
-        if (health <= 0)
-        {
-            Debug.Log("Game Over!");
-            // you can disable controls or reload the scene
-        }
-    }
-}
-```
 ### 3. Additional Requirements
 - Upon colliding with an enemy, the player should bounce back (use `Rigidbody.AddForce`).
 - Play a simple sound when collecting a coin (optional).
