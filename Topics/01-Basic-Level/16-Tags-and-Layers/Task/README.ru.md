@@ -42,7 +42,7 @@
     - `Projectile` × `Enemy`
     - `Projectile` × `Environment`
    
-### Шаг 4: Скрипт для лазера (Laser.cs)
+### Шаг 4: Скрипт для лазера (<a href="../Solution/Laser.cs"><code>Laser.cs</code></a>)
   - Храните скорость лазера (`speed`) и время жизни лазера (`lifetime`) в переменных.
   - В `Start` запускайте уничтожение (`Destroy`) лазере через `lifetime` сек.
   - Каждый кадр (в `Update`) задавайте движение через `transform.Translate`
@@ -51,7 +51,7 @@
       - Уничтожайте врага при столкновении
     - Лазер уничтожается при любом столкновении (стена, враг)
    
-### Шаг 5: Raycast-проверка перед выстрелом (PlayerShoot.cs)
+### Шаг 5: Raycast-проверка перед выстрелом (<a href="../Solution/PlayerShoot.cs"><code>PlayerShoot.cs</code></a>)
   - Храните префаб лазера (`GameObject laserPrefab`), стартовую позицию выстрела (`Transform firePoint`) и максимальную дистанцию выстрела (`shootDistance = 50f`)
   - В `Update` при нажатии ЛКМ (`Input.GetButtonDown("Fire1")`)
     - Создаём маску: исключаем слой `Player` (игрок), но включаем `Enemy` и `Environment`
