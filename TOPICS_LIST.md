@@ -147,6 +147,14 @@
       <a href="Topics/01-Basic-Level/15-Collision-Events/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>16</strong></td>
+    <td><code>Tags</code> and <code>Layers</code> in Unity</td>
+    <td>
+      <a href="Topics/01-Basic-Level/16-Tags-and-Layers/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/16-Tags-and-Layers/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -381,6 +389,14 @@
     <td>
       <a href="Topics/01-Basic-Level/15-Collision-Events/README.ru.md">Теория</a> , 
       <a href="Topics/01-Basic-Level/15-Collision-Events/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>16</strong></td>
+    <td>Теги (<code>Tag</code>) и Слои (<code>Layer</code>) в Unity</td>
+    <td>
+      <a href="Topics/01-Basic-Level/16-Tags-and-Layers/README.ru.md">Теория</a> , 
+      <a href="Topics/01-Basic-Level/16-Tags-and-Layers/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
