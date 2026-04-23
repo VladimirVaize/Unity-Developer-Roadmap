@@ -45,19 +45,19 @@
 ### Шаг 4: Скрипт для лазера (Laser.cs)
   - Храните скорость лазера (`speed`) и время жизни лазера (`lifetime`) в переменных.
   - В `Start` запускайте уничтожение (`Destroy`) лазере через `lifetime` сек.
-  - Каждый кодр (в `Update`) задавайте движение через `transform.Translate`
+  - Каждый кадр (в `Update`) задавайте движение через `transform.Translate`
   - В `OnCollisionEnter`:
     - Проверка тега врага (`CompareTag("Enemy")`)
-      - Уничтожайте врага при сталкновении
+      - Уничтожайте врага при столкновении
     - Лазер уничтожается при любом столкновении (стена, враг)
    
 ### Шаг 5: Raycast-проверка перед выстрелом (PlayerShoot.cs)
   - Храните префаб лазера (`GameObject laserPrefab`), стартовую позицию выстрела (`Transform firePoint`) и максимальную дистанцию выстрела (`shootDistance = 50f`)
   - В `Update` при нажатии ЛКМ (`Input.GetButtonDown("Fire1")`)
-    - Создаём маску: исключаем слой Player (игрок), но включаем Enemy и Environment
-    - Выстреливаем лучем `Raycast` вперед (не забудь перезать параметр маски в `Raycast`)
+    - Создаём маску: исключаем слой `Player` (игрок), но включаем `Enemy` и `Environment`
+    - Выстреливаем лучем `Raycast` вперед (не забудь передать параметр маски в `Raycast`)
       - Если `Raycast` попал в `"Enemy"` (Сделай проверку по тегу - `CompareTag("Enemy")`):
-        - Создаём лазел (`Instantiate(laserPrefab, firePoint.position, firePoint.rotation);`)
+        - Создаём лазер (`Instantiate(laserPrefab, firePoint.position, firePoint.rotation);`)
         - Выводим сообщение `"Выстрел по врагу!"`
       - Если `Raycast` попал в `"Wall"`:
         - Выводим сообщение `"Путь преграждён стеной. Нельзя стрелять."`
