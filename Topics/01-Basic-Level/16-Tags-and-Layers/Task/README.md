@@ -41,7 +41,7 @@ You are developing a 3D game where the player can shoot a laser gun at enemies. 
     - `Projectile` × `Enemy`
     - `Projectile` × `Environment`
    
-### Step 4: Laser Script (Laser.cs)
+### Step 4: Laser Script (<a href="../Solution/Laser.cs"><code>Laser.cs</code></a>)
   - Store the laser speed (`speed`) and the laser lifetime (`lifetime`) in variables.
   - In `Start`, start the destruction (`Destroy`) laser after a `lifetime` sec.
   - Each frame (in the `Update`), set the movement through the `transform'.Translate`
@@ -50,7 +50,7 @@ You are developing a 3D game where the player can shoot a laser gun at enemies. 
       - Destroy the enemy in a collision
     - The laser is destroyed in any collision (wall, enemy)
    
-### Step 5: Raycast Check Before Shooting (PlayerShoot.cs)
+### Step 5: Raycast Check Before Shooting (<a href="../Solution/PlayerShoot.cs"><code>PlayerShoot.cs</code></a>)
   - Store the laser prefab (`GameObject laserPrefab`), the starting position of the shot (`Transform firePoint`) and the maximum distance of the shot (`shootDistance = 50f`)
   - In `Update`, when pressing LMB (`Input.GetButtonDown("Fire1")`)
     - Creating a mask: exclude the `Player` layer, but include `Enemy` and `Environment`
