@@ -155,6 +155,14 @@
       <a href="Topics/01-Basic-Level/16-Tags-and-Layers/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>17</strong></td>
+    <td><code>Time.deltaTime</code> and Time Scale in Unity</td>
+    <td>
+      <a href="Topics/01-Basic-Level/17-Time.deltaTime/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/17-Time.deltaTime/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -397,6 +405,14 @@
     <td>
       <a href="Topics/01-Basic-Level/16-Tags-and-Layers/README.ru.md">Теория</a> , 
       <a href="Topics/01-Basic-Level/16-Tags-and-Layers/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>17</strong></td>
+    <td><code>Time.deltaTime</code> и масштаб времени в Unity</td>
+    <td>
+      <a href="Topics/01-Basic-Level/17-Time.deltaTime/README.ru.md">Теория</a> , 
+      <a href="Topics/01-Basic-Level/17-Time.deltaTime/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
