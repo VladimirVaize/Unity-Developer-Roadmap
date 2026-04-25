@@ -27,8 +27,8 @@ Learn to properly use `Time.deltaTime` for movement (if spheres were moved manua
 ---
 
 ## 📝 What to implement in code
-1. Create a `TimeManager.cs` script (on an empty GameObject) to handle input and display UI.
-2. Create a `DestroyOnCollision.cs` script for spheres that destroys the sphere and increases the score upon collision with the plane (using a static variable or a reference to TimeManager).
+1. Create a <a href="../Solution/TimeManager.cs"><code>TimeManager.cs</code></a> script (on an empty GameObject) to handle input and display UI.
+2. Create a <a href="../Solution/DestroyOnCollision.cs"><code>DestroyOnCollision.cs</code></a> script for spheres that destroys the sphere and increases the score upon collision with the plane (using a static variable or a reference to TimeManager).
 3. Ensure that sphere movement (gravity) correctly reacts to `Time.timeScale` — thanks to `FixedUpdate`, no extra work is needed.
 4. Add text (UI Text or TextMeshPro) to display `Time.timeScale` and the score.
 
