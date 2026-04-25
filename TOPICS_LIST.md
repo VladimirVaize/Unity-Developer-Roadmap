@@ -163,6 +163,14 @@
       <a href="Topics/01-Basic-Level/17-Time.deltaTime/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>18</strong></td>
+    <td><code>Debugging and Logging</code> in Unity: From Debug.Log to File Output</td>
+    <td>
+      <a href="Topics/01-Basic-Level/18-Debugging-and-Logging/README.md">Theory</a> , 
+      <a href="Topics/01-Basic-Level/18-Debugging-and-Logging/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -413,6 +421,14 @@
     <td>
       <a href="Topics/01-Basic-Level/17-Time.deltaTime/README.ru.md">Теория</a> , 
       <a href="Topics/01-Basic-Level/17-Time.deltaTime/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>18</strong></td>
+    <td><code>Дебаг и логирование</code> в Unity: От Debug.Log до файла на диске</td>
+    <td>
+      <a href="Topics/01-Basic-Level/18-Debugging-and-Logging/README.ru.md">Теория</a> , 
+      <a href="Topics/01-Basic-Level/18-Debugging-and-Logging/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
