@@ -205,4 +205,4 @@ void FixedUpdate()
 
 ---
 
-### ⭐ If this project was useful, put a star on GitHub!
+### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
