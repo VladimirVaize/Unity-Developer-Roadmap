@@ -61,4 +61,12 @@ public class CombatSystem : MonoBehaviour
 
 ---
 
+## Solution:
+- The script with the solution of the task - <a href="../Solution/GameLogger.cs"><code>GameLogger.cs</code></a>
+- Modified source scripts:
+  - <a href="../Solution/DungeonGenerator.cs"><code>DungeonGenerator.cs</code></a>
+  - <a href="../Solution/CombatSystem.cs"><code>CombatSystem.cs</code></a>
+
+---
+
 ### ⭐ If this project was useful, put a star on GitHub!
