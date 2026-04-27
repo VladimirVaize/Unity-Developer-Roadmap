@@ -178,7 +178,15 @@
 <table> 
   <tr id="working-with-interface-and-data"> 
     <td colspan="4" align="center"><h3><strong>Working with Interface and Data (WIP)</strong></h3></td> 
-  </tr> 
+  </tr>
+  <tr>
+    <td><strong>19</strong></td>
+    <td><code>UI Canvas</code> in Unity: Render Modes</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/19-UI-Canvas/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/19-UI-Canvas/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -438,6 +446,14 @@
 <table>
   <tr id="работа-с-интерфейсом">
     <td colspan="4", align="center"><h3><strong>Работа с интерфейсом и данными (WIP)</strong></h3></td>
+  </tr>
+  <tr>
+    <td><strong>19</strong></td>
+    <td><code>UI Canvas</code> в Unity: Режимы рендеринга</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/19-UI-Canvas/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/19-UI-Canvas/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
