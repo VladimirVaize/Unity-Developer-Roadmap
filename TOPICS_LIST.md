@@ -195,6 +195,14 @@
       <a href="Topics/02-UI-&-Data/20-UI-Components/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>21</strong></td>
+    <td>UI Scripts in Unity: <code>Button</code>, <code>Slider</code>, <code>Toggle</code>, <code>ScrollRect</code></td>
+    <td>
+      <a href="Topics/02-UI-&-Data/21-UI-Scripts/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/21-UI-Scripts/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -469,6 +477,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/20-UI-Components/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/20-UI-Components/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>21</strong></td>
+    <td>UI Скрипты в Unity: <code>Button</code>, <code>Slider</code>, <code>Toggle</code>, <code>ScrollRect</code></td>
+    <td>
+      <a href="Topics/02-UI-&-Data/21-UI-Scripts/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/21-UI-Scripts/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
