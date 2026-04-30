@@ -203,6 +203,14 @@
       <a href="Topics/02-UI-&-Data/21-UI-Scripts/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>22</strong></td>
+    <td>Creating Simple Property Animations (<code>Animation Window</code>)</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/22-Animation-Window/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/22-Animation-Window/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -485,6 +493,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/21-UI-Scripts/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/21-UI-Scripts/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>22</strong></td>
+    <td>Создание простых анимаций по свойствам (<code>Animation Window</code>)</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/22-Animation-Window/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/22-Animation-Window/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
