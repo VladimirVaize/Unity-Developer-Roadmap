@@ -211,6 +211,14 @@
       <a href="Topics/02-UI-&-Data/22-Animation-Window/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>23</strong></td>
+    <td>Animation in Unity: <code>Animator Controller</code> and State Machine</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/23-Animator-Controller/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/23-Animator-Controller/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -501,6 +509,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/22-Animation-Window/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/22-Animation-Window/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>23</strong></td>
+    <td>Анимация в Unity: <code>Animator Controller</code> и машина состояний</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/23-Animator-Controller/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/23-Animator-Controller/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
