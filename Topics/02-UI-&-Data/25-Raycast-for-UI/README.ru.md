@@ -73,9 +73,11 @@ Graphic Raycaster — это компонент, который добавляе
 ---
 
 ## 💡 Частая ошибка
-Ошибка: UI не реагирует на клики, хотя Canvas и кнопки есть.
+### Ошибка: 
+- UI не реагирует на клики, хотя Canvas и кнопки есть.
 
-Причина: На Canvas отсутствует компонент `Graphic Raycaster` или нет `EventSystem` в сцене.
+### Причина: 
+- На Canvas отсутствует компонент `Graphic Raycaster` или нет `EventSystem` в сцене.
 
 ### Решение:
 - Выберите Canvas → `Add Component` → `Graphic Raycaster`.
