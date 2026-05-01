@@ -219,6 +219,14 @@
       <a href="Topics/02-UI-&-Data/23-Animator-Controller/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>24</strong></td>
+    <td><code>Animation Layers</code> and <code>Masks</code>: Blending Animations in Unity</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/24-Animation-Layers/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/24-Animation-Layers/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -517,6 +525,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/23-Animator-Controller/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/23-Animator-Controller/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>24</strong></td>
+    <td>Анимационные слои (<code>Layers</code>) и <code>маски</code>: Смешивание анимаций в Unity</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/24-Animation-Layers/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/24-Animation-Layers/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
