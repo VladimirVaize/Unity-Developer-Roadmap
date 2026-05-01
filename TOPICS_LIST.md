@@ -227,6 +227,14 @@
       <a href="Topics/02-UI-&-Data/24-Animation-Layers/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>25</strong></td>
+    <td><code>Raycast for UI</code>: Click Blocking and Graphic Raycaster</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/25-Raycast-for-UI/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/25-Raycast-for-UI/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -533,6 +541,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/24-Animation-Layers/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/24-Animation-Layers/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>25</strong></td>
+    <td><code>Raycast для UI</code>: Блокировка кликов и Graphic Raycaster</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/25-Raycast-for-UI/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/25-Raycast-for-UI/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
