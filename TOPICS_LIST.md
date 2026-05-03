@@ -235,6 +235,14 @@
       <a href="Topics/02-UI-&-Data/25-Raycast-for-UI/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>26</strong></td>
+    <td><code>UnityEvents</code>: Configuring Events in the Inspector for Loose Coupling</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/26-UnityEvents/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/26-UnityEvents/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -549,6 +557,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/25-Raycast-for-UI/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/25-Raycast-for-UI/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>26</strong></td>
+    <td><code>UnityEvents</code>: Настройка событий в инспекторе для слабой связанности (loose coupling)</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/26-UnityEvents/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/26-UnityEvents/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
