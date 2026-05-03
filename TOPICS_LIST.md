@@ -243,6 +243,14 @@
       <a href="Topics/02-UI-&-Data/26-UnityEvents/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>27</strong></td>
+    <td><code>ScrollView</code> and <code>Dynamic Lists</code> in Unity UI</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/27-ScrollView/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/27-ScrollView/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -565,6 +573,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/26-UnityEvents/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/26-UnityEvents/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>27</strong></td>
+    <td><code>ScrollView</code> и <code>динамические списки</code> в Unity UI</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/27-ScrollView/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/27-ScrollView/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
