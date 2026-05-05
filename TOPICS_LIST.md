@@ -251,6 +251,14 @@
       <a href="Topics/02-UI-&-Data/27-ScrollView/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>28</strong></td>
+    <td><code>TextMeshPro</code> (TMP): Modern Typography in Unity</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/28-TextMeshPro/README.md">Theory</a> , 
+      <a href="Topics/02-UI-&-Data/28-TextMeshPro/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -581,6 +589,14 @@
     <td>
       <a href="Topics/02-UI-&-Data/27-ScrollView/README.ru.md">Теория</a> , 
       <a href="Topics/02-UI-&-Data/27-ScrollView/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>28</strong></td>
+    <td><code>TextMeshPro</code> (TMP): Современная типографика в Unity</td>
+    <td>
+      <a href="Topics/02-UI-&-Data/28-TextMeshPro/README.ru.md">Теория</a> , 
+      <a href="Topics/02-UI-&-Data/28-TextMeshPro/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
