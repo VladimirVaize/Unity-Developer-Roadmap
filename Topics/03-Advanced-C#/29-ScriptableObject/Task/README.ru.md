@@ -9,9 +9,9 @@
 ---
 
 ## 🧱 Что нужно сделать (шаги)
-1. Создайте ScriptableObject `WeaponSO`
+1. Создайте ScriptableObject `WeaponSO`<br>
    Поля: `weaponName` (string), `damage` (int), `attackSpeed` (float), `icon` (Sprite), `prefab` (GameObject — ссылка на визуальную модель оружия).
-2. Создайте ScriptableObject `GlobalScoreSO`
+2. Создайте ScriptableObject `GlobalScoreSO`<br>
    Поля: `score` (int).<br>
    Методы: `AddScore(int value)`, `ResetScore()`.
 3. Создайте несколько ассетов оружия через меню `Create → Game/Weapon`:
