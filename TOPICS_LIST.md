@@ -266,7 +266,15 @@
 <table> 
   <tr id="advanced-c"> 
     <td colspan="4" align="center"><h3><strong>Advanced C# in Unity (WIP)</strong></h3></td> 
-  </tr> 
+  </tr>
+  <tr>
+    <td><strong>29</strong></td>
+    <td><code>ScriptableObject</code> in Unity: Data Storage, Configuration, Replacing Singletons</td>
+    <td>
+      <a href="Topics/03-Advanced-C#/29-ScriptableObject/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C#/29-ScriptableObject/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -606,6 +614,14 @@
 <table>
   <tr id="продвинутый-c">
     <td colspan="4", align="center"><h3><strong>Продвинутый C# в Unity (WIP)</strong></h3></td>
+  </tr>
+  <tr>
+    <td><strong>29</strong></td>
+    <td><code>ScriptableObject</code> в Unity: Хранение данных, конфигурация, замена синглтонов</td>
+    <td>
+      <a href="Topics/03-Advanced-C#/29-ScriptableObject/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C#/29-ScriptableObject/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
