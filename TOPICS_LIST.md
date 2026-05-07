@@ -275,6 +275,14 @@
       <a href="Topics/03-Advanced-C#/29-ScriptableObject/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>30</strong></td>
+    <td><code>Serialization</code> in Unity: Controlling Field Visibility in the Inspector</td>
+    <td>
+      <a href="Topics/03-Advanced-C#/30-Serialization/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C#/30-Serialization/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -621,6 +629,14 @@
     <td>
       <a href="Topics/03-Advanced-C#/29-ScriptableObject/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C#/29-ScriptableObject/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>30</strong></td>
+    <td><code>Сериализация</code> в Unity: Управление видимостью полей в Инспекторе</td>
+    <td>
+      <a href="Topics/03-Advanced-C#/30-Serialization/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C#/30-Serialization/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
