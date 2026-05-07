@@ -265,7 +265,7 @@
 
 <table> 
   <tr id="advanced-c"> 
-    <td colspan="4" align="center"><h3><strong>Advanced C# in Unity (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Advanced C# in Unity</strong></h3></td> 
   </tr>
   <tr>
     <td><strong>29</strong></td>
@@ -621,7 +621,7 @@
 
 <table>
   <tr id="продвинутый-c">
-    <td colspan="4", align="center"><h3><strong>Продвинутый C# в Unity (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Продвинутый C# в Unity</strong></h3></td>
   </tr>
   <tr>
     <td><strong>29</strong></td>
