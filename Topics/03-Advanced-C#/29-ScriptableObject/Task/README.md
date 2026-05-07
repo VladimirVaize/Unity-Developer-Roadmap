@@ -53,4 +53,13 @@ Create a small Unity project that uses `ScriptableObject` for:
 
 ---
 
+## Solution:
+
+### 🧩 1. ScriptableObject: Weapon (<a href="../Solution/ScriptableObjects/WeaponSO.cs"><code>WeaponSO.cs</code></a>)
+### 🧩 2. ScriptableObject: Global Score (<a href="../Solution/ScriptableObjects/GlobalScoreSO.cs"><code>GlobalScoreSO.cs</code></a>)
+### 🧩 3. Weapon Pickup Component (<a href="../Solution/Pickup/WeaponPickup.cs"><code>WeaponPickup.cs</code></a>)
+### 🧩 4. Score UI Display (<a href="../Solution/UI/ScoreUI.cs"><code>ScoreUI.cs</code></a>)
+### 🧩 5. (Bonus) Reset Score Button Script (<a href="../Solution/ResetScoreButton.cs"><code>ResetScoreButton.cs</code></a>)
+---
+
 ### ⭐ If this project was useful, put a star on GitHub!
