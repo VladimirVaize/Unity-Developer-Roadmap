@@ -271,8 +271,8 @@
     <td><strong>29</strong></td>
     <td><code>ScriptableObject</code> in Unity: Data Storage, Configuration, Replacing Singletons</td>
     <td>
-      <a href="Topics/03-Advanced-C#/29-ScriptableObject/README.md">Theory</a> , 
-      <a href="Topics/03-Advanced-C#/29-ScriptableObject/Task/README.md">Practice</a>
+      <a href="Topics/03-Advanced-C%23/29-ScriptableObject/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/29-ScriptableObject/Task/README.md">Practice</a>
     </td>
   </tr>
   <tr>
@@ -627,16 +627,16 @@
     <td><strong>29</strong></td>
     <td><code>ScriptableObject</code> в Unity: Хранение данных, конфигурация, замена синглтонов</td>
     <td>
-      <a href="Topics/03-Advanced-C#/29-ScriptableObject/README.ru.md">Теория</a> , 
-      <a href="Topics/03-Advanced-C#/29-ScriptableObject/Task/README.ru.md">Практика</a>
+      <a href="Topics/03-Advanced-C%23/29-ScriptableObject/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/29-ScriptableObject/Task/README.ru.md">Практика</a>
     </td>
   </tr>
   <tr>
     <td><strong>30</strong></td>
     <td><code>Сериализация</code> в Unity: Управление видимостью полей в Инспекторе</td>
     <td>
-      <a href="Topics/03-Advanced-C#/30-Serialization/README.ru.md">Теория</a> , 
-      <a href="Topics/03-Advanced-C#/30-Serialization/Task/README.ru.md">Практика</a>
+      <a href="Topics/03-Advanced-C%23/30-Serialization/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/30-Serialization/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
