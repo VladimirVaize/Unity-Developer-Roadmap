@@ -52,4 +52,14 @@
 
 ---
 
+## Решение:
+
+### 🧩 1. ScriptableObject: Оружие (<a href="../Solution/ScriptableObjects/WeaponSO.cs"><code>WeaponSO.cs</code></a>)
+### 🧩 2. ScriptableObject: Глобальный счёт (<a href="../Solution/ScriptableObjects/GlobalScoreSO.cs"><code>GlobalScoreSO.cs</code></a>)
+### 🧩 3. Компонент подбора оружия (<a href="../Solution/Pickup/WeaponPickup.cs"><code>WeaponPickup.cs</code></a>)
+### 🧩 4. Отображение счёта в UI (<a href="../Solution/UI/ScoreUI.cs"><code>ScoreUI.cs</code></a>)
+### 🧩 5. (Бонус) Скрипт для кнопки сброса счёта (<a href="../Solution/ResetScoreButton.cs"><code>ResetScoreButton.cs</code></a>)
+
+---
+
 ### ⭐ Если этот проект был полезен, поставьте звезду на GitHub!
