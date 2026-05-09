@@ -3,12 +3,12 @@ You are creating an RPG game. You need to implement an inventory system where ea
 Use your knowledge of serialization to properly show and hide fields in the Inspector.
 
 ## 📝 Requirements
-1. Create a struct `InventoryItem` with the following fields:
+1. Create a struct <a href="../Solution/InventoryItem.cs"><code>InventoryItem</code></a> with the following fields:
    - `itemName` (string, public) — the item's name.
    - `weight` (float, private, but should be visible in the Inspector) — the item's weight.
    - `price` (int, public, but should be hidden in the Inspector) — the item's price.
   
-2. Create an `Inventory` class (MonoBehaviour) that contains:
+2. Create an <a href="../Solution/Inventory.cs"><code>Inventory</code></a> class (MonoBehaviour) that contains:
    - A public field `items` — an array of `InventoryItem`.
    - A private field `maxWeight` (float) that should be displayed in the Inspector.
    - A private field `ownerName` (string) that should not be displayed in the Inspector.
