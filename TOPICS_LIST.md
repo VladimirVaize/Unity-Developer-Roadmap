@@ -283,6 +283,14 @@
       <a href="Topics/03-Advanced-C%23/30-Serialization/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>31</strong></td>
+    <td><code>OnValidate</code>: Automatically Configuring Presets in the Unity Editor</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/31-OnValidate/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/31-OnValidate/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -637,6 +645,14 @@
     <td>
       <a href="Topics/03-Advanced-C%23/30-Serialization/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/30-Serialization/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>31</strong></td>
+    <td><code>OnValidate</code>: Автоматическая настройка пресетов в Unity Editor</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/31-OnValidate/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/31-OnValidate/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
