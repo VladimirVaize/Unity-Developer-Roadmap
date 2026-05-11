@@ -6,7 +6,7 @@ Use `OnValidate` to automatically maintain valid values.
 ---
 
 ## 📝 Requirements
-Create a script `Weapon.cs` with fields:
+Create a script <a href="../Solution/Weapon.cs"><code>Weapon.cs</code></a> with fields:
 - `damage` (int, from 1 to 100)
 - `range` (float, from 0.5 to 50)
 - `fireRate` (float, shots per second, from 1 to 20)
