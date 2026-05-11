@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Требования
-Создай скрипт `Weapon.cs` с полями:
+Создай скрипт <a href="../Solution/Weapon.cs"><code>Weapon.cs</code></a> с полями:
 - `damage` (int, от 1 до 100)
 - `range` (float, от 0.5 до 50)
 - `fireRate` (float, выстрелов в секунду, от 1 до 20)
