@@ -848,4 +848,9 @@
   <tr id="экзотика">
     <td colspan="4", align="center"><h3><strong>Экзотика и продвинутый GameDev (WIP)</strong></h3></td>
   </tr>
+  <tr>
+    <td><em>№</em></td>
+    <td><em>Описание</em></td>
+    <td><em>Ссылки</em></td>
+  </tr>
 </table>
