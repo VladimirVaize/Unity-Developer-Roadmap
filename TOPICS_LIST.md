@@ -291,6 +291,14 @@
       <a href="Topics/03-Advanced-C%23/31-OnValidate/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>32</strong></td>
+    <td><code>Custom Editor</code> / <code>PropertyDrawer</code>: Extending the Unity Editor for Your Needs (Editor API)</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/32-Custom-Editor/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/32-Custom-Editor/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -653,6 +661,14 @@
     <td>
       <a href="Topics/03-Advanced-C%23/31-OnValidate/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/31-OnValidate/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>32</strong></td>
+    <td><code>Custom Editor</code> / <code>PropertyDrawer</code>: Расширяем редактор Unity под свои задачи (Editor API)</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/32-Custom-Editor/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/32-Custom-Editor/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
