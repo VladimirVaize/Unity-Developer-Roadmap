@@ -309,6 +309,14 @@
       <a href="Topics/03-Advanced-C%23/32-Custom-Editor/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>33</strong></td>
+    <td><code>Profiling</code> in Unity: Finding Bottlenecks (CPU, GPU, Memory, Render)</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/33-Profiling/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/33-Profiling/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -734,6 +742,14 @@
     <td>
       <a href="Topics/03-Advanced-C%23/32-Custom-Editor/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/32-Custom-Editor/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>33</strong></td>
+    <td><code>Профилирование</code> в Unity: Поиск узких мест (CPU, GPU, Memory, Render)</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/33-Profiling/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/33-Profiling/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
