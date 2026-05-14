@@ -317,6 +317,14 @@
       <a href="Topics/03-Advanced-C%23/33-Profiling/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>34</strong></td>
+    <td>Unity <code>Job System</code>: Multi‑threaded Data Processing Without Deadlock Risks</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/34-Job-System/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/34-Job-System/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -750,6 +758,14 @@
     <td>
       <a href="Topics/03-Advanced-C%23/33-Profiling/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/33-Profiling/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>34</strong></td>
+    <td><code>Job System</code> в Unity: Многопоточная обработка данных без риска дедлоков</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/34-Job-System/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/34-Job-System/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
