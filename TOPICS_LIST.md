@@ -325,6 +325,13 @@
       <a href="Topics/03-Advanced-C%23/34-Job-System/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>35</strong></td>
+    <td><code>Burst Compiler</code>: High-Performance Compiler for the Job System</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/35-Burst-Compiler/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -766,6 +773,13 @@
     <td>
       <a href="Topics/03-Advanced-C%23/34-Job-System/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/34-Job-System/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>35</strong></td>
+    <td><code>Burst Compiler</code>: Высокопроизводительный компилятор для Job System</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/35-Burst-Compiler/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
