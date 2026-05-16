@@ -332,6 +332,14 @@
       <a href="Topics/03-Advanced-C%23/35-Burst-Compiler/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>36</strong></td>
+    <td><code>Garbage Collector</code> (GC) in Unity: Object Pooling and Avoiding Allocations</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/36-Garbage-Collector/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/36-Garbage-Collector/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -780,6 +788,14 @@
     <td><code>Burst Compiler</code>: Высокопроизводительный компилятор для Job System</td>
     <td>
       <a href="Topics/03-Advanced-C%23/35-Burst-Compiler/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>36</strong></td>
+    <td><code>Сборщик мусора</code> (<code>GC</code>) в Unity: Пул объектов и избегание аллокаций</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/36-Garbage-Collector/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/36-Garbage-Collector/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
