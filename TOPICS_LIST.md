@@ -340,6 +340,13 @@
       <a href="Topics/03-Advanced-C%23/36-Garbage-Collector/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>37</strong></td>
+    <td><code>Unsafe Code</code> and <code>NativeArray</code>: When and How to Use</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/37-Unsafe-Code/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -796,6 +803,13 @@
     <td>
       <a href="Topics/03-Advanced-C%23/36-Garbage-Collector/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/36-Garbage-Collector/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>37</strong></td>
+    <td><code>Unsafe код</code> и <code>Native Containers</code>: Когда и как использовать</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/37-Unsafe-Code/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
