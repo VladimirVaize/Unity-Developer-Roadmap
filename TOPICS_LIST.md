@@ -347,6 +347,14 @@
       <a href="Topics/03-Advanced-C%23/37-Unsafe-Code/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>38</strong></td>
+    <td><code>Reflection</code> in Unity: Introspection and Metaprogramming</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/38-Reflection/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/38-Reflection/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -810,6 +818,14 @@
     <td><code>Unsafe код</code> и <code>Native Containers</code>: Когда и как использовать</td>
     <td>
       <a href="Topics/03-Advanced-C%23/37-Unsafe-Code/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>38</strong></td>
+    <td><code>Reflection</code> в Unity: Интроспекция и метапрограммирование</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/38-Reflection/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/38-Reflection/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
