@@ -355,6 +355,14 @@
       <a href="Topics/03-Advanced-C%23/38-Reflection/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>39</strong></td>
+    <td><code>Editor Window</code>: Creating Custom Windows in Unity Editor</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/39-Editor-Window/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/39-Editor-Window/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -826,6 +834,14 @@
     <td>
       <a href="Topics/03-Advanced-C%23/38-Reflection/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/38-Reflection/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>39</strong></td>
+    <td><code>Editor Window</code>: Создание собственных окон в редакторе Unity</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/39-Editor-Window/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/39-Editor-Window/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
