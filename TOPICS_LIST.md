@@ -363,6 +363,14 @@
       <a href="Topics/03-Advanced-C%23/39-Editor-Window/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>40</strong></td>
+    <td><code>Debug Visualization</code> in Unity: <code>Gizmos</code> and Debug Drawing</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/40-Debug-Visualization/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/40-Debug-Visualization/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -842,6 +850,14 @@
     <td>
       <a href="Topics/03-Advanced-C%23/39-Editor-Window/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/39-Editor-Window/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>40</strong></td>
+    <td><code>Визуализация отладки</code> в Unity: <code>Gizmos</code> и отладочная отрисовка</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/40-Debug-Visualization/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/40-Debug-Visualization/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
