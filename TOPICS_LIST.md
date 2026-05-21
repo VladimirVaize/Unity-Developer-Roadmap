@@ -371,6 +371,14 @@
       <a href="Topics/03-Advanced-C%23/40-Debug-Visualization/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>41</strong></td>
+    <td><code>IDE</code> Setup and <code>Debugging</code> in Unity</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/41-IDE/README.md">Theory</a> , 
+      <a href="Topics/03-Advanced-C%23/41-IDE/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -858,6 +866,14 @@
     <td>
       <a href="Topics/03-Advanced-C%23/40-Debug-Visualization/README.ru.md">Теория</a> , 
       <a href="Topics/03-Advanced-C%23/40-Debug-Visualization/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>41</strong></td>
+    <td>Настройка <code>IDE</code> и <code>отладка</code> в Unity</td>
+    <td>
+      <a href="Topics/03-Advanced-C%23/41-IDE/README.ru.md">Теория</a> , 
+      <a href="Topics/03-Advanced-C%23/41-IDE/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
