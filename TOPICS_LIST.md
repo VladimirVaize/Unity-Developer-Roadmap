@@ -392,6 +392,14 @@
     <td><em>Description</em></td>
     <td><em>Links</em></td>
   </tr>
+  <tr>
+    <td><strong>42</strong></td>
+    <td><code>Materials</code> and <code>Shaders</code> in Unity: Standard Shader, Metallic/Smoothness, Textures</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -888,6 +896,14 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>41</strong></td>
+    <td><code>Материалы</code> и <code>шейдеры</code> в Unity: Standard Shader, Metallic/Smoothness, текстуры</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
