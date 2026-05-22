@@ -385,7 +385,7 @@
 
 <table> 
   <tr id="graphics-and-visuals"> 
-    <td colspan="4" align="center"><h3><strong>Graphics and Visuals (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Graphics and Visuals</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -890,7 +890,7 @@
 
 <table>
   <tr id="графика-и-визуал">
-    <td colspan="4", align="center"><h3><strong>Графика и визуал (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Графика и визуал</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
