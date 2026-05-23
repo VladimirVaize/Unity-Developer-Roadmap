@@ -400,6 +400,14 @@
       <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>43</strong></td>
+    <td><code>Shader Graph</code>: Visual Shader Creation Without Code</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/43-Shader-Graph/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/43-Shader-Graph/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -903,6 +911,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>42</strong></td>
+    <td><code>Shader Graph</code>: Визуальное создание шейдеров без кода</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/43-Shader-Graph/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/43-Shader-Graph/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
