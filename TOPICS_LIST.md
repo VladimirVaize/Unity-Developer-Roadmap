@@ -408,6 +408,14 @@
       <a href="Topics/04-Graphics-&-Visuals/43-Shader-Graph/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>44</strong></td>
+    <td><code>Lighting</code> in Unity: Light Types and Lightmapping</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/44-Lighting/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/44-Lighting/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -906,7 +914,7 @@
     <td><em>Ссылки</em></td>
   </tr>
   <tr>
-    <td><strong>41</strong></td>
+    <td><strong>42</strong></td>
     <td><code>Материалы</code> и <code>шейдеры</code> в Unity: Standard Shader, Metallic/Smoothness, текстуры</td>
     <td>
       <a href="Topics/04-Graphics-&-Visuals/42-Materials-and-Shaders/README.ru.md">Теория</a> , 
@@ -914,11 +922,19 @@
     </td>
   </tr>
   <tr>
-    <td><strong>42</strong></td>
+    <td><strong>43</strong></td>
     <td><code>Shader Graph</code>: Визуальное создание шейдеров без кода</td>
     <td>
       <a href="Topics/04-Graphics-&-Visuals/43-Shader-Graph/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/43-Shader-Graph/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>44</strong></td>
+    <td><code>Освещение</code> в Unity: Типы источников и Lightmapping</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/44-Lighting/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/44-Lighting/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
