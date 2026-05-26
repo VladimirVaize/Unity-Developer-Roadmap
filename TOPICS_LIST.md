@@ -424,6 +424,14 @@
       <a href="Topics/04-Graphics-&-Visuals/45-Custom-Shaders/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>46</strong></td>
+    <td><code>VFX Graph</code>: Modern Particle System for High-Performance Effects</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/46-VFX-Graph/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/46-VFX-Graph/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -951,6 +959,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/45-Custom-Shaders/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/45-Custom-Shaders/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>46</strong></td>
+    <td><code>VFX Graph</code>: Современная система частиц для высокопроизводительных эффектов</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/46-VFX-Graph/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/46-VFX-Graph/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
