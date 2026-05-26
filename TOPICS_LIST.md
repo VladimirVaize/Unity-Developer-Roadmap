@@ -416,6 +416,14 @@
       <a href="Topics/04-Graphics-&-Visuals/44-Lighting/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>45</strong></td>
+    <td><code>Custom Shaders</code> in Unity: HLSL / ShaderLab — Basics for Shader Artists & Programmers</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/45-Custom-Shaders/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/45-Custom-Shaders/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -935,6 +943,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/44-Lighting/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/44-Lighting/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>45</strong></td>
+    <td><code>Кастомные шейдеры</code> в Unity: HLSL / ShaderLab — основы для шейдерных художников и программистов</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/45-Custom-Shaders/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/45-Custom-Shaders/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
