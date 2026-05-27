@@ -432,6 +432,14 @@
       <a href="Topics/04-Graphics-&-Visuals/46-VFX-Graph/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>47</strong></td>
+    <td><code>Universal Render Pipeline</code> (URP): Setup, Render Features, Advantages</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/47-URP/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/47-URP/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -967,6 +975,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/46-VFX-Graph/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/46-VFX-Graph/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>47</strong></td>
+    <td><code>Universal Render Pipeline</code> (URP): Настройка, рендер-фичи и преимущества</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/47-URP/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/47-URP/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
