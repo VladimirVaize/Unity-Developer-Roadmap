@@ -448,6 +448,14 @@
       <a href="Topics/04-Graphics-&-Visuals/48-HDRP/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>49</strong></td>
+    <td><code>Sprite Shape</code> and <code>Tilemap</code>: Creating 2D Levels (Platformers)</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/49-Sprite-Shape-and-Tilemap/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/49-Sprite-Shape-and-Tilemap/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -999,6 +1007,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/48-HDRP/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/48-HDRP/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>49</strong></td>
+    <td><code>Sprite Shape</code> и <code>Tilemap</code>: Создание 2D уровней (платформеров)</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/49-Sprite-Shape-and-Tilemap/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/49-Sprite-Shape-and-Tilemap/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
