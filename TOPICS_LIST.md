@@ -440,6 +440,14 @@
       <a href="Topics/04-Graphics-&-Visuals/47-URP/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>48</strong></td>
+    <td><code>High Definition Render Pipeline</code> (HDRP)</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/48-HDRP/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/48-HDRP/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -983,6 +991,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/47-URP/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/47-URP/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>48</strong></td>
+    <td><code>High Definition Render Pipeline</code> (HDRP)</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/48-HDRP/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/48-HDRP/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
