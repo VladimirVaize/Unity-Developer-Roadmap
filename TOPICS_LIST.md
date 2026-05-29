@@ -464,6 +464,14 @@
       <a href="Topics/04-Graphics-&-Visuals/50-2D-Animation/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>51</strong></td>
+    <td><code>Particle System</code> in Unity: Complete 2D Animation Guide</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/51-Particle-System/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/51-Particle-System/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1031,6 +1039,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/50-2D-Animation/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/50-2D-Animation/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>51</strong></td>
+    <td>Система частиц (<code>Particle System</code>) в Unity: Полное руководство для 2D анимации</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/51-Particle-System/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/51-Particle-System/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
