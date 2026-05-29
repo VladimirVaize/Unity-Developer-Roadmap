@@ -456,6 +456,14 @@
       <a href="Topics/04-Graphics-&-Visuals/49-Sprite-Shape-and-Tilemap/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>50</strong></td>
+    <td><code>2D Animation</code> in Unity: Sprite Editor, Sprite Atlas, Skeletal Animation</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/50-2D-Animation/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/50-2D-Animation/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1015,6 +1023,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/49-Sprite-Shape-and-Tilemap/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/49-Sprite-Shape-and-Tilemap/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>50</strong></td>
+    <td><code>2D анимация</code> в Unity: Sprite Editor, Sprite Atlas, Skeletal Animation</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/50-2D-Animation/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/50-2D-Animation/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
