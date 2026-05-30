@@ -472,6 +472,14 @@
       <a href="Topics/04-Graphics-&-Visuals/51-Particle-System/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>52</strong></td>
+    <td>Code-Based Animation in Unity: <code>DoTween</code>, <code>LeanTween</code>, Interpolations, and Easing Functions</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/52-Code-Based-Animation/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/52-Code-Based-Animation/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1047,6 +1055,14 @@
     <td>
       <a href="Topics/04-Graphics-&-Visuals/51-Particle-System/README.ru.md">Теория</a> , 
       <a href="Topics/04-Graphics-&-Visuals/51-Particle-System/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>52</strong></td>
+    <td>Программная анимация в Unity: <code>DoTween</code>, <code>LeanTween</code>, интерполяции и Easing Functions</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/52-Code-Based-Animation/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/52-Code-Based-Animation/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
