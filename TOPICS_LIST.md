@@ -486,12 +486,20 @@
 
 <table> 
   <tr id="architecture"> 
-    <td colspan="4" align="center"><h3><strong>Architecture and Advanced Systems (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Architecture and Advanced Systems</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
     <td><em>Description</em></td>
     <td><em>Links</em></td>
+  </tr>
+  <tr>
+    <td><strong>53</strong></td>
+    <td><code>Scene Management</code> in Unity: LoadScene, Additive Mode, DontDestroyOnLoad</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/README.md">Theory</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/Task/README.md">Practice</a>
+    </td>
   </tr>
 </table>
 
@@ -1071,12 +1079,20 @@
 
 <table>
   <tr id="архитектура">
-    <td colspan="4", align="center"><h3><strong>Архитектура и продвинутые системы (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Архитектура и продвинутые системы</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>53</strong></td>
+    <td><code>Управление сценами</code> в Unity: LoadScene, Additive режим, DontDestroyOnLoad</td>
+    <td>
+      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/README.ru.md">Теория</a> , 
+      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
