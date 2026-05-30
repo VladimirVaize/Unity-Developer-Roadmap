@@ -497,8 +497,8 @@
     <td><strong>53</strong></td>
     <td><code>Scene Management</code> in Unity: LoadScene, Additive Mode, DontDestroyOnLoad</td>
     <td>
-      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/README.md">Theory</a> , 
-      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/Task/README.md">Practice</a>
+      <a href="Topics/05-Architecture/53-Scene-Management/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/53-Scene-Management/Task/README.md">Practice</a>
     </td>
   </tr>
 </table>
@@ -1090,8 +1090,8 @@
     <td><strong>53</strong></td>
     <td><code>Управление сценами</code> в Unity: LoadScene, Additive режим, DontDestroyOnLoad</td>
     <td>
-      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/README.ru.md">Теория</a> , 
-      <a href="Topics/04-Graphics-&-Visuals/53-Scene-Management/Task/README.ru.md">Практика</a>
+      <a href="Topics/05-Architecture/53-Scene-Management/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/53-Scene-Management/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
