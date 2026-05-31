@@ -501,6 +501,14 @@
       <a href="Topics/05-Architecture/53-Scene-Management/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>54</strong></td>
+    <td><code>MVC and MVP Patterns</code> in Unity: Separating Data, View, and Logic (Especially for UI)</td>
+    <td>
+      <a href="Topics/05-Architecture/54-MVC-and-MVP-Patterns/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/54-MVC-and-MVP-Patterns/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1092,6 +1100,14 @@
     <td>
       <a href="Topics/05-Architecture/53-Scene-Management/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/53-Scene-Management/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>54</strong></td>
+    <td><code>Паттерны MVC и MVP</code> в Unity: Разделение данных, представления и логики (особенно для UI)</td>
+    <td>
+      <a href="Topics/05-Architecture/54-MVC-and-MVP-Patterns/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/54-MVC-and-MVP-Patterns/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
