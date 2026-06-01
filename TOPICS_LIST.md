@@ -509,6 +509,14 @@
       <a href="Topics/05-Architecture/54-MVC-and-MVP-Patterns/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>55</strong></td>
+    <td><code>Dependency Injection</code> (DI) in Unity: Zenject / Extenject Container</td>
+    <td>
+      <a href="Topics/05-Architecture/55-Dependency-Injection/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/55-Dependency-Injection/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1108,6 +1116,14 @@
     <td>
       <a href="Topics/05-Architecture/54-MVC-and-MVP-Patterns/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/54-MVC-and-MVP-Patterns/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>55</strong></td>
+    <td><code>Внедрение зависимостей</code> (DI) в Unity: Контейнер Zenject / Extenject</td>
+    <td>
+      <a href="Topics/05-Architecture/55-Dependency-Injection/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/55-Dependency-Injection/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
