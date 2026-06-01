@@ -517,6 +517,14 @@
       <a href="Topics/05-Architecture/55-Dependency-Injection/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>56</strong></td>
+    <td><code>State Pattern</code>: Implementing a Finite State Machine for Player, Enemy, or UI</td>
+    <td>
+      <a href="Topics/05-Architecture/56-State-Pattern/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/56-State-Pattern/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1124,6 +1132,14 @@
     <td>
       <a href="Topics/05-Architecture/55-Dependency-Injection/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/55-Dependency-Injection/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>56</strong></td>
+    <td>Паттерн «Состояние» (<code>State Machine</code>): Реализация конечного автомата для игрока, врага или UI</td>
+    <td>
+      <a href="Topics/05-Architecture/56-State-Pattern/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/56-State-Pattern/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
