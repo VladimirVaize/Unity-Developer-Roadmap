@@ -525,6 +525,13 @@
       <a href="Topics/05-Architecture/56-State-Pattern/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>57</strong></td>
+    <td><code>Service Locator</code>: Global Access to Services Without Singletons</td>
+    <td>
+      <a href="Topics/05-Architecture/57-Service-Locator/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1140,6 +1147,13 @@
     <td>
       <a href="Topics/05-Architecture/56-State-Pattern/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/56-State-Pattern/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>57</strong></td>
+    <td><code>Service Locator</code>: Глобальный доступ к сервисам без синглтонов</td>
+    <td>
+      <a href="Topics/05-Architecture/57-Service-Locator/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
