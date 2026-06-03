@@ -252,7 +252,7 @@ public class EventChannelSO<T> : ScriptableObject {
 ### 3. Action — для простых временных связей внутри одного скрипта
 
 Пример архитектуры:
-```csharp
+```text
 Assets/
   Scripts/
     Events/
