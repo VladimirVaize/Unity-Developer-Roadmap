@@ -532,6 +532,14 @@
       <a href="Topics/05-Architecture/57-Service-Locator/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>58</strong></td>
+    <td><code>Event Model</code> in Unity: Global Event System</td>
+    <td>
+      <a href="Topics/05-Architecture/58-Event-Model/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/58-Event-Model/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1154,6 +1162,14 @@
     <td><code>Service Locator</code>: Глобальный доступ к сервисам без синглтонов</td>
     <td>
       <a href="Topics/05-Architecture/57-Service-Locator/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>58</strong></td>
+    <td><code>Event Model</code> в Unity: Глобальная система событий</td>
+    <td>
+      <a href="Topics/05-Architecture/58-Event-Model/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/58-Event-Model/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
