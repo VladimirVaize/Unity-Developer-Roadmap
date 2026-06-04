@@ -540,6 +540,14 @@
       <a href="Topics/05-Architecture/58-Event-Model/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>59</strong></td>
+    <td><code>Addressables</code>: Asynchronous Loading and Memory Management</td>
+    <td>
+      <a href="Topics/05-Architecture/59-Addressables/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/59-Addressables/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1170,6 +1178,14 @@
     <td>
       <a href="Topics/05-Architecture/58-Event-Model/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/58-Event-Model/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>59</strong></td>
+    <td><code>Addressables</code>: Асинхронная загрузка и управление памятью</td>
+    <td>
+      <a href="Topics/05-Architecture/59-Addressables/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/59-Addressables/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
