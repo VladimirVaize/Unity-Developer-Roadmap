@@ -548,6 +548,14 @@
       <a href="Topics/05-Architecture/59-Addressables/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>60</strong></td>
+    <td><code>Asset Bundles</code>: Packaging Content for Patches and DLC</td>
+    <td>
+      <a href="Topics/05-Architecture/60-Asset-Bundles/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/60-Asset-Bundles/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1186,6 +1194,14 @@
     <td>
       <a href="Topics/05-Architecture/59-Addressables/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/59-Addressables/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>60</strong></td>
+    <td><code>Asset Bundles</code>: Упаковка контента для патчей и DLC</td>
+    <td>
+      <a href="Topics/05-Architecture/60-Asset-Bundles/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/60-Asset-Bundles/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
