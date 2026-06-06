@@ -556,6 +556,14 @@
       <a href="Topics/05-Architecture/60-Asset-Bundles/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>61</strong></td>
+    <td><code>Command Pattern</code> in Unity: Undo/Redo, Input Recording, Replays</td>
+    <td>
+      <a href="Topics/05-Architecture/61-Command/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/61-Command/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1202,6 +1210,14 @@
     <td>
       <a href="Topics/05-Architecture/60-Asset-Bundles/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/60-Asset-Bundles/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>61</strong></td>
+    <td>Паттерн Команда (<code>Command</code>) в Unity: Undo/Redo, сохранение ввода и реплеи</td>
+    <td>
+      <a href="Topics/05-Architecture/61-Command/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/61-Command/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
