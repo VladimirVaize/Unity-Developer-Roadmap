@@ -564,6 +564,14 @@
       <a href="Topics/05-Architecture/61-Command/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>62</strong></td>
+    <td><code>Object Pool</code> Pattern in Unity</td>
+    <td>
+      <a href="Topics/05-Architecture/62-Object-Pool/README.md">Theory</a> , 
+      <a href="Topics/05-Architecture/62-Object-Pool/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1218,6 +1226,14 @@
     <td>
       <a href="Topics/05-Architecture/61-Command/README.ru.md">Теория</a> , 
       <a href="Topics/05-Architecture/61-Command/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>62</strong></td>
+    <td>Паттерн «<code>Пул объектов</code>» (Object Pool) в Unity</td>
+    <td>
+      <a href="Topics/05-Architecture/62-Object-Pool/README.ru.md">Теория</a> , 
+      <a href="Topics/05-Architecture/62-Object-Pool/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
