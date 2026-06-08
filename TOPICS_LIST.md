@@ -601,6 +601,14 @@
     <td><em>Description</em></td>
     <td><em>Links</em></td>
   </tr>
+  <tr>
+    <td><strong>65</strong></td>
+    <td><code>Unit Testing</code> in Unity: Test Framework, Edit Mode vs Play Mode Tests, NUnit</td>
+    <td>
+      <a href="Topics/06-Testing/65-Unit-Testing/README.md">Theory</a> , 
+      <a href="Topics/06-Testing/65-Unit-Testing/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1280,6 +1288,14 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>65</strong></td>
+    <td><code>Юнит-тестирование</code> в Unity: Test Framework, Edit Mode vs Play Mode тесты, NUnit</td>
+    <td>
+      <a href="Topics/06-Testing/65-Unit-Testing/README.ru.md">Теория</a> , 
+      <a href="Topics/06-Testing/65-Unit-Testing/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
