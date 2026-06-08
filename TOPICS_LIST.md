@@ -609,6 +609,14 @@
       <a href="Topics/06-Testing/65-Unit-Testing/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>66</strong></td>
+    <td><code>Integration Testing</code> in Unity: Testing Game Scenarios, Mocking</td>
+    <td>
+      <a href="Topics/06-Testing/66-Integration-Testing/README.md">Theory</a> , 
+      <a href="Topics/06-Testing/66-Integration-Testing/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1295,6 +1303,14 @@
     <td>
       <a href="Topics/06-Testing/65-Unit-Testing/README.ru.md">Теория</a> , 
       <a href="Topics/06-Testing/65-Unit-Testing/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>66</strong></td>
+    <td><code>Интеграционное тестирование</code> в Unity: Тестирование игровых сценариев, мок-объекты (mocking)</td>
+    <td>
+      <a href="Topics/06-Testing/66-Integration-Testing/README.ru.md">Теория</a> , 
+      <a href="Topics/06-Testing/66-Integration-Testing/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
