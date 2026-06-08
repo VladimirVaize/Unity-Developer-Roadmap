@@ -594,7 +594,7 @@
 
 <table> 
   <tr id="testing"> 
-    <td colspan="4" align="center"><h3><strong>Testing (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Testing</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -1282,7 +1282,7 @@
 
 <table>
   <tr id="тестирование">
-    <td colspan="4", align="center"><h3><strong>Тестирование (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Тестирование</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
