@@ -638,6 +638,14 @@
       <a href="Topics/07-Physics-And-Platforms/67-Physics2D/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>68</strong></td>
+    <td><code>Navigation System</code> in Unity: NavMesh Surface, NavMesh Agent, NavMesh Obstacle</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/68-Navigation-System/README.md">Theory</a> , 
+      <a href="Topics/07-Physics-And-Platforms/68-Navigation-System/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1340,6 +1348,14 @@
     <td>
       <a href="Topics/07-Physics-And-Platforms/67-Physics2D/README.ru.md">Теория</a> , 
       <a href="Topics/07-Physics-And-Platforms/67-Physics2D/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>68</strong></td>
+    <td><code>Система навигации</code> в Unity: NavMesh Surface, NavMesh Agent, NavMesh Obstacle</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/68-Navigation-System/README.ru.md">Теория</a> , 
+      <a href="Topics/07-Physics-And-Platforms/68-Navigation-System/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
