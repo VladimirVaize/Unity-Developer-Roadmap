@@ -630,6 +630,14 @@
     <td><em>Description</em></td>
     <td><em>Links</em></td>
   </tr>
+  <tr>
+    <td><strong>67</strong></td>
+    <td><code>Physics2D</code> in Unity: Rigidbody2D, Collider2D, Layers and Differences from 3D Physics</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/67-Physics2D/README.md">Theory</a> , 
+      <a href="Topics/07-Physics-And-Platforms/67-Physics2D/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1325,6 +1333,14 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>67</strong></td>
+    <td><code>Физика 2D</code> в Unity: Rigidbody2D, Collider2D, слои и отличия от 3D физики</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/67-Physics2D/README.ru.md">Теория</a> , 
+      <a href="Topics/07-Physics-And-Platforms/67-Physics2D/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
