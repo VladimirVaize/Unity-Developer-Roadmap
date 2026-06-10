@@ -623,7 +623,7 @@
 
 <table> 
   <tr id="physics"> 
-    <td colspan="4" align="center"><h3><strong>Physics and Platform Specifics (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Physics and Platform Specifics</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
