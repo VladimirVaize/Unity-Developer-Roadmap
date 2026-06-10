@@ -646,6 +646,14 @@
       <a href="Topics/07-Physics-And-Platforms/68-Navigation-System/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>69</strong></td>
+    <td><code>Behavior Trees</code> in Unity: NodeCanvas, Odin + NPBehave, Custom Solutions</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/69-Behavior-Trees/README.md">Theory</a> , 
+      <a href="Topics/07-Physics-And-Platforms/69-Behavior-Trees/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1335,7 +1343,7 @@
 
 <table>
   <tr id="физика">
-    <td colspan="4", align="center"><h3><strong>Физика и особенности платформ (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Физика и особенности платформ</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -1356,6 +1364,14 @@
     <td>
       <a href="Topics/07-Physics-And-Platforms/68-Navigation-System/README.ru.md">Теория</a> , 
       <a href="Topics/07-Physics-And-Platforms/68-Navigation-System/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>69</strong></td>
+    <td><code>Поведенческие деревья</code> (<code>Behavior Trees</code>) в Unity: NodeCanvas, Odin + NPBehave, самописные решения</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/69-Behavior-Trees/README.ru.md">Теория</a> , 
+      <a href="Topics/07-Physics-And-Platforms/69-Behavior-Trees/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
