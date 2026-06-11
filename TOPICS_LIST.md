@@ -670,6 +670,14 @@
       <a href="Topics/07-Physics-And-Platforms/71-Platform-Compilation/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>72</strong></td>
+    <td><code>Mobile Features</code> in Unity: Push Notifications, Touches, Battery Optimization</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/72-Mobile-Features/README.md">Theory</a> , 
+      <a href="Topics/07-Physics-And-Platforms/72-Mobile-Features/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1404,6 +1412,14 @@
     <td>
       <a href="Topics/07-Physics-And-Platforms/71-Platform-Compilation/README.ru.md">Теория</a> , 
       <a href="Topics/07-Physics-And-Platforms/71-Platform-Compilation/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>72</strong></td>
+    <td><code>Мобильные особенности</code> в Unity: Пуш-уведомления, касания, оптимизация батареи</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/72-Mobile-Features/README.ru.md">Теория</a> , 
+      <a href="Topics/07-Physics-And-Platforms/72-Mobile-Features/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
