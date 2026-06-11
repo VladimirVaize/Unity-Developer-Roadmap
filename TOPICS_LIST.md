@@ -664,7 +664,7 @@
   </tr>
   <tr>
     <td><strong>71</strong></td>
-    <td><code>Platform Compilation</code> in Unity: Preprocessor Directives (UNITY_ANDROID, UNITY_IOS, UNITY_EDITOR)</td>
+    <td><code>Platform Compilation</code> in Unity: Preprocessor Directives <br>(UNITY_ANDROID, UNITY_IOS, UNITY_EDITOR)</td>
     <td>
       <a href="Topics/07-Physics-And-Platforms/71-Platform-Compilation/README.md">Theory</a> , 
       <a href="Topics/07-Physics-And-Platforms/71-Platform-Compilation/Task/README.md">Practice</a>
@@ -1400,7 +1400,7 @@
   </tr>
   <tr>
     <td><strong>71</strong></td>
-    <td><code>Платформенная компиляция</code> в Unity: Директивы препроцессора (UNITY_ANDROID, UNITY_IOS, UNITY_EDITOR)</td>
+    <td><code>Платформенная компиляция</code> в Unity: Директивы препроцессора <br>(UNITY_ANDROID, UNITY_IOS, UNITY_EDITOR)</td>
     <td>
       <a href="Topics/07-Physics-And-Platforms/71-Platform-Compilation/README.ru.md">Теория</a> , 
       <a href="Topics/07-Physics-And-Platforms/71-Platform-Compilation/Task/README.ru.md">Практика</a>
