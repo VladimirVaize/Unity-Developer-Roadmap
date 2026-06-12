@@ -686,6 +686,14 @@
       <a href="Topics/07-Physics-And-Platforms/73-WebGL/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>74</strong></td>
+    <td><code>Memory Management</code> on Mobile Devices: Texture Compression, ASTC, Resolutions, Sprite Atlases</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/74-Memory-Management/README.md">Theory</a> , 
+      <a href="Topics/07-Physics-And-Platforms/74-Memory-Management/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1436,6 +1444,14 @@
     <td>
       <a href="Topics/07-Physics-And-Platforms/73-WebGL/README.ru.md">Теория</a> , 
       <a href="Topics/07-Physics-And-Platforms/73-WebGL/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>74</strong></td>
+    <td><code>Управление памятью</code> на мобильных устройствах: Texture Compression, ASTC, Resolutions, Sprite Atlases</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/74-Memory-Management/README.ru.md">Теория</a> , 
+      <a href="Topics/07-Physics-And-Platforms/74-Memory-Management/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
