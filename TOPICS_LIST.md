@@ -678,6 +678,14 @@
       <a href="Topics/07-Physics-And-Platforms/72-Mobile-Features/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>73</strong></td>
+    <td><code>WebGL</code> in Unity: Build, Limitations and JavaScript Interaction</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/73-WebGL/README.md">Theory</a> , 
+      <a href="Topics/07-Physics-And-Platforms/73-WebGL/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1420,6 +1428,14 @@
     <td>
       <a href="Topics/07-Physics-And-Platforms/72-Mobile-Features/README.ru.md">Теория</a> , 
       <a href="Topics/07-Physics-And-Platforms/72-Mobile-Features/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>73</strong></td>
+    <td><code>WebGL</code> в Unity: сборка, ограничения и взаимодействие с JavaScript</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/73-WebGL/README.ru.md">Теория</a> , 
+      <a href="Topics/07-Physics-And-Platforms/73-WebGL/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
