@@ -715,6 +715,14 @@
     <td><em>Description</em></td>
     <td><em>Links</em></td>
   </tr>
+  <tr>
+    <td><strong>76</strong></td>
+    <td><code>AudioSource</code> and <code>AudioListener</code>: Playing Sounds, 2D vs 3D Sound, Spatial Positioning</td>
+    <td>
+      <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/README.md">Theory</a> , 
+      <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1482,6 +1490,14 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>76</strong></td>
+    <td><code>AudioSource</code> и <code>AudioListener</code>: Проигрывание звуков, 2D vs 3D звук, позиционирование в пространстве</td>
+    <td>
+      <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/README.ru.md">Теория</a> , 
+      <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
