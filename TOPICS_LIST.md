@@ -694,6 +694,14 @@
       <a href="Topics/07-Physics-And-Platforms/74-Memory-Management/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>75</strong></td>
+    <td><code>StreamingAssets</code> in Unity: StreamingAssets Folder, File Reading, Big Data Streaming, Video</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/75-StreamingAssets/README.md">Theory</a> , 
+      <a href="Topics/07-Physics-And-Platforms/75-StreamingAssets/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1452,6 +1460,14 @@
     <td>
       <a href="Topics/07-Physics-And-Platforms/74-Memory-Management/README.ru.md">Теория</a> , 
       <a href="Topics/07-Physics-And-Platforms/74-Memory-Management/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>75</strong></td>
+    <td><code>StreamingAssets</code> в Unity: Папка StreamingAssets, чтение файлов, стриминг больших данных, видео</td>
+    <td>
+      <a href="Topics/07-Physics-And-Platforms/75-StreamingAssets/README.ru.md">Теория</a> , 
+      <a href="Topics/07-Physics-And-Platforms/75-StreamingAssets/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
