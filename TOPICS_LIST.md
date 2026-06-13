@@ -708,7 +708,7 @@
 
 <table> 
   <tr id="audio"> 
-    <td colspan="4" align="center"><h3><strong>Audio (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Audio</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -1484,7 +1484,7 @@
 
 <table>
   <tr id="аудио">
-    <td colspan="4", align="center"><h3><strong>Аудио (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Аудио</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
