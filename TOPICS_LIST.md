@@ -723,6 +723,14 @@
       <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>77</strong></td>
+    <td><code>AudioMixer</code> in Unity: Groups, Effects (Reverb, Echo), Snapshots for Dynamic Mixing</td>
+    <td>
+      <a href="Topics/08-Audio/77-AudioMixer/README.md">Theory</a> , 
+      <a href="Topics/08-Audio/77-AudioMixer/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1497,6 +1505,14 @@
     <td>
       <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/README.ru.md">Теория</a> , 
       <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>77</strong></td>
+    <td><code>AudioMixer</code> в Unity: Группы каналов, эффекты (реверберация, эхо), снапшоты для динамического микширования</td>
+    <td>
+      <a href="Topics/08-Audio/77-AudioMixer/README.ru.md">Теория</a> , 
+      <a href="Topics/08-Audio/77-AudioMixer/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
