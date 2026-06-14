@@ -1501,7 +1501,7 @@
   </tr>
   <tr>
     <td><strong>76</strong></td>
-    <td><code>AudioSource</code> и <code>AudioListener</code>: Проигрывание звуков, 2D vs 3D звук, позиционирование в пространстве</td>
+    <td><code>AudioSource</code> и <code>AudioListener</code>: <br>Проигрывание звуков, 2D vs 3D звук, позиционирование в пространстве</td>
     <td>
       <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/README.ru.md">Теория</a> , 
       <a href="Topics/08-Audio/76-AudioSource-and-AudioListener/Task/README.ru.md">Практика</a>
@@ -1509,7 +1509,7 @@
   </tr>
   <tr>
     <td><strong>77</strong></td>
-    <td><code>AudioMixer</code> в Unity: Группы каналов, эффекты (реверберация, эхо), снапшоты для динамического микширования</td>
+    <td><code>AudioMixer</code> в Unity: Группы каналов, эффекты (реверберация, эхо), <br>снапшоты для динамического микширования</td>
     <td>
       <a href="Topics/08-Audio/77-AudioMixer/README.ru.md">Теория</a> , 
       <a href="Topics/08-Audio/77-AudioMixer/Task/README.ru.md">Практика</a>
