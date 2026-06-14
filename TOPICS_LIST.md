@@ -1525,7 +1525,7 @@
   </tr>
   <tr>
     <td><strong>78</strong></td>
-    <td><code>Адаптивная музыка</code> в Unity: Переключение между миксами, динамические изменения в зависимости от игровой ситуации</td>
+    <td><code>Адаптивная музыка</code> в Unity: Переключение между миксами, <br>динамические изменения в зависимости от игровой ситуации</td>
     <td>
       <a href="Topics/08-Audio/78-Adaptive-Music/README.ru.md">Теория</a> , 
       <a href="Topics/08-Audio/78-Adaptive-Music/Task/README.ru.md">Практика</a>
