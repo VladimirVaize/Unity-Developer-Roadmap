@@ -731,6 +731,14 @@
       <a href="Topics/08-Audio/77-AudioMixer/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>78</strong></td>
+    <td><code>Adaptive Music</code> in Unity: Switching Between Mixes, Dynamic Changes Based on Game Situation</td>
+    <td>
+      <a href="Topics/08-Audio/78-Adaptive-Music/README.md">Theory</a> , 
+      <a href="Topics/08-Audio/78-Adaptive-Music/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1513,6 +1521,14 @@
     <td>
       <a href="Topics/08-Audio/77-AudioMixer/README.ru.md">Теория</a> , 
       <a href="Topics/08-Audio/77-AudioMixer/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>78</strong></td>
+    <td><code>Адаптивная музыка</code> в Unity: Переключение между миксами, динамические изменения в зависимости от игровой ситуации</td>
+    <td>
+      <a href="Topics/08-Audio/78-Adaptive-Music/README.ru.md">Теория</a> , 
+      <a href="Topics/08-Audio/78-Adaptive-Music/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
