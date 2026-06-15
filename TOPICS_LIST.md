@@ -752,6 +752,14 @@
     <td><em>Description</em></td>
     <td><em>Links</em></td>
   </tr>
+  <tr>
+    <td><strong>79</strong></td>
+    <td><code>Static Batching</code> and <code>GPU Instancing</code>: Combining Meshes to Reduce Draw Calls</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/79-Static-Batching/README.md">Theory</a> , 
+      <a href="Topics/09-Optimization-and-Build/79-Static-Batching/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1543,6 +1551,14 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>79</strong></td>
+    <td>Статическое батчинг (<code>Static Batching</code>) и <code>GPU Instancing</code>: Объединение мешей для снижения draw calls</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/79-Static-Batching/README.ru.md">Теория</a> , 
+      <a href="Topics/09-Optimization-and-Build/79-Static-Batching/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
