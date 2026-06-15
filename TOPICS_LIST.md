@@ -760,6 +760,14 @@
       <a href="Topics/09-Optimization-and-Build/79-Static-Batching/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>80</strong></td>
+    <td><code>Occlusion Culling</code> in Unity: Disabling Rendering of Objects Hidden by Other Objects</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/80-Occlusion-Culling/README.md">Theory</a> , 
+      <a href="Topics/09-Optimization-and-Build/80-Occlusion-Culling/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1558,6 +1566,14 @@
     <td>
       <a href="Topics/09-Optimization-and-Build/79-Static-Batching/README.ru.md">Теория</a> , 
       <a href="Topics/09-Optimization-and-Build/79-Static-Batching/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>80</strong></td>
+    <td>Окклюзия (<code>Occlusion Culling</code>) в Unity: Отключение рендера объектов, скрытых другими объектами</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/80-Occlusion-Culling/README.ru.md">Теория</a> , 
+      <a href="Topics/09-Optimization-and-Build/80-Occlusion-Culling/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
