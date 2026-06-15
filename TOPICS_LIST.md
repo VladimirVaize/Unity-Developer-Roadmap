@@ -745,7 +745,7 @@
 
 <table> 
   <tr id="optimization"> 
-    <td colspan="4" align="center"><h3><strong>Optimization and Deployment (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Optimization and Deployment</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -1545,7 +1545,7 @@
 
 <table>
   <tr id="оптимизация">
-    <td colspan="4", align="center"><h3><strong>Оптимизация и деплой (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Оптимизация и деплой</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
