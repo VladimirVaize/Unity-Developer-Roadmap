@@ -776,6 +776,14 @@
       <a href="Topics/09-Optimization-and-Build/81-LOD/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>82</strong></td>
+    <td><code>Memory Profiling</code> in Unity: Memory Profiler, Memory Leaks</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/82-Memory-Profiling/README.md">Theory</a> , 
+      <a href="Topics/09-Optimization-and-Build/82-Memory-Profiling/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1590,6 +1598,14 @@
     <td>
       <a href="Topics/09-Optimization-and-Build/81-LOD/README.ru.md">Теория</a> , 
       <a href="Topics/09-Optimization-and-Build/81-LOD/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>82</strong></td>
+    <td><code>Профилирование памяти</code> в Unity: Memory Profiler, утечки памяти (Memory Leaks)</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/82-Memory-Profiling/README.ru.md">Теория</a> , 
+      <a href="Topics/09-Optimization-and-Build/82-Memory-Profiling/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
