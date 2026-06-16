@@ -768,6 +768,14 @@
       <a href="Topics/09-Optimization-and-Build/80-Occlusion-Culling/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>81</strong></td>
+    <td><code>LOD</code> (Level of Detail) in Unity: Swapping Models Based on Camera Distance</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/81-LOD/README.md">Theory</a> , 
+      <a href="Topics/09-Optimization-and-Build/81-LOD/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1574,6 +1582,14 @@
     <td>
       <a href="Topics/09-Optimization-and-Build/80-Occlusion-Culling/README.ru.md">Теория</a> , 
       <a href="Topics/09-Optimization-and-Build/80-Occlusion-Culling/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>81</strong></td>
+    <td><code>LOD</code> (Level of Detail) в Unity: Смена моделей в зависимости от расстояния до камеры</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/81-LOD/README.ru.md">Теория</a> , 
+      <a href="Topics/09-Optimization-and-Build/81-LOD/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
