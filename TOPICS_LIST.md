@@ -784,6 +784,13 @@
       <a href="Topics/09-Optimization-and-Build/82-Memory-Profiling/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>83</strong></td>
+    <td>Unity <code>Build Settings</code>: Player Settings, Icons, Splash Screens, Permissions</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/84-Build-Settings/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1606,6 +1613,13 @@
     <td>
       <a href="Topics/09-Optimization-and-Build/82-Memory-Profiling/README.ru.md">Теория</a> , 
       <a href="Topics/09-Optimization-and-Build/82-Memory-Profiling/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>83</strong></td>
+    <td><code>Сборка проекта</code> в Unity: Player Settings, настройка иконок, сплеш-скринов, разрешений</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/84-Build-Settings/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
