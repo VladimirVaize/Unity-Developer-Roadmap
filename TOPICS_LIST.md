@@ -791,6 +791,13 @@
       <a href="Topics/09-Optimization-and-Build/84-Build-Settings/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>84</strong></td>
+    <td><code>Development Cycle</code> (DevOps) in Unity: Cloud Build, Build Automation</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/84-DevOps/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1620,6 +1627,13 @@
     <td><code>Сборка проекта</code> в Unity: Player Settings, настройка иконок, сплеш-скринов, разрешений</td>
     <td>
       <a href="Topics/09-Optimization-and-Build/84-Build-Settings/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>84</strong></td>
+    <td><code>Цикл разработки</code> (DevOps) в Unity: Cloud Build, автоматизация сборок</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/84-DevOps/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
