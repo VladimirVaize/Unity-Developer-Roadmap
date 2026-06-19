@@ -805,6 +805,13 @@
       <a href="Topics/09-Optimization-and-Build/85-SRP-Batcher/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>86</strong></td>
+    <td><code>Profiler Markers</code> in Unity: Custom Markers for Accurate Profiling</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/86-Profiler-Markers/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1648,6 +1655,13 @@
     <td><code>SRP Batcher</code>: Механизм батчинга для Scriptable Render Pipelines, отличие от стандартного батчинга</td>
     <td>
       <a href="Topics/09-Optimization-and-Build/85-SRP-Batcher/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>86</strong></td>
+    <td><code>Profiler маркеры</code> в Unity: Кастомные маркеры в коде для точного профилирования</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/86-Profiler-Markers/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
