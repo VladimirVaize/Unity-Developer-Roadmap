@@ -798,6 +798,13 @@
       <a href="Topics/09-Optimization-and-Build/84-DevOps/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>85</strong></td>
+    <td><code>SRP Batcher</code>: Batching Mechanism for Scriptable Render Pipelines, Difference from Standard Batching</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/85-SRP-Batcher/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1634,6 +1641,13 @@
     <td><code>Цикл разработки</code> (DevOps) в Unity: Cloud Build, автоматизация сборок</td>
     <td>
       <a href="Topics/09-Optimization-and-Build/84-DevOps/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>85</strong></td>
+    <td><code>SRP Batcher</code>: Механизм батчинга для Scriptable Render Pipelines, отличие от стандартного батчинга</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/85-SRP-Batcher/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
