@@ -819,6 +819,13 @@
       <a href="Topics/09-Optimization-and-Build/87-Splash-Screens/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>88</strong></td>
+    <td><code>Asset Compression</code> and <code>Optimization</code> in Unity: Texture Importer, Audio Importer, Model Importer, Presets</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/88-Asset-Compression/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1676,6 +1683,13 @@
     <td><code>Сплит-скрины</code> и <code>стартовые сцены</code> в Unity: Splash Screen, настройка первой сцены, Build Pipeline</td>
     <td>
       <a href="Topics/09-Optimization-and-Build/87-Splash-Screens/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>88</strong></td>
+    <td><code>Сжатие и оптимизация ассетов</code> в Unity: Texture Importer, Audio Importer, Model Importer, Presets</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/88-Asset-Compression/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
