@@ -812,6 +812,13 @@
       <a href="Topics/09-Optimization-and-Build/86-Profiler-Markers/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>87</strong></td>
+    <td><code>Splash Screens</code> and <code>Startup Scenes</code> in Unity: Splash Screen, First Scene Setup, Build Pipeline</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/87-Splash-Screens/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1662,6 +1669,13 @@
     <td><code>Profiler маркеры</code> в Unity: Кастомные маркеры в коде для точного профилирования</td>
     <td>
       <a href="Topics/09-Optimization-and-Build/86-Profiler-Markers/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>87</strong></td>
+    <td><code>Сплит-скрины</code> и <code>стартовые сцены</code> в Unity: Splash Screen, настройка первой сцены, Build Pipeline</td>
+    <td>
+      <a href="Topics/09-Optimization-and-Build/87-Splash-Screens/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
