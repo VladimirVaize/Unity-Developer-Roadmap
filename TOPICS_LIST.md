@@ -839,6 +839,14 @@
     <td><em>Description</em></td>
     <td><em>Links</em></td>
   </tr>
+  <tr>
+    <td><strong>89</strong></td>
+    <td><code>Git</code> for Unity: .gitignore, Scene Management (Smart Merge), Prefab Conflicts, Git LFS for Large Assets</td>
+    <td>
+      <a href="Topics/10-Version-Control/89-Git/README.md">Theory</a> , 
+      <a href="Topics/10-Version-Control/89-Git/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1704,6 +1712,14 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>89</strong></td>
+    <td><code>Git</code> для Unity: .gitignore, работа со сценами (Smart Merge), конфликты префабов, Git LFS для больших ассетов</td>
+    <td>
+      <a href="Topics/10-Version-Control/89-Git/README.ru.md">Теория</a> , 
+      <a href="Topics/10-Version-Control/89-Git/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
