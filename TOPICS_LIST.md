@@ -832,7 +832,7 @@
 
 <table> 
   <tr id="version-control"> 
-    <td colspan="4" align="center"><h3><strong>Version Control and Teamwork (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Version Control and Teamwork</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -841,7 +841,7 @@
   </tr>
   <tr>
     <td><strong>89</strong></td>
-    <td><code>Git</code> for Unity: .gitignore, Scene Management (Smart Merge), Prefab Conflicts, Git LFS for Large Assets</td>
+    <td><code>Git</code> for Unity: .gitignore, Scene Management (Smart Merge), <br>Prefab Conflicts, Git LFS for Large Assets</td>
     <td>
       <a href="Topics/10-Version-Control/89-Git/README.md">Theory</a> , 
       <a href="Topics/10-Version-Control/89-Git/Task/README.md">Practice</a>
@@ -1706,7 +1706,7 @@
 
 <table>
   <tr id="версионирование">
-    <td colspan="4", align="center"><h3><strong>Версионирование и работа в команде (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Версионирование и работа в команде</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -1715,7 +1715,7 @@
   </tr>
   <tr>
     <td><strong>89</strong></td>
-    <td><code>Git</code> для Unity: .gitignore, работа со сценами (Smart Merge), конфликты префабов, Git LFS для больших ассетов</td>
+    <td><code>Git</code> для Unity: .gitignore, работа со сценами (Smart Merge), <br>конфликты префабов, Git LFS для больших ассетов</td>
     <td>
       <a href="Topics/10-Version-Control/89-Git/README.ru.md">Теория</a> , 
       <a href="Topics/10-Version-Control/89-Git/Task/README.ru.md">Практика</a>
