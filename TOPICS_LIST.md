@@ -868,6 +868,14 @@
       <a href="Topics/11-Post-processing/90-Post-Processing-Stack/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>91</strong></td>
+    <td><code>Renderer Features</code> in URP: Custom Render Passes and Full-Screen Effects</td>
+    <td>
+      <a href="Topics/11-Post-processing/91-Renderer-Features/README.md">Theory</a> , 
+      <a href="Topics/11-Post-processing/91-Renderer-Features/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -1748,6 +1756,14 @@
     <td>
       <a href="Topics/11-Post-processing/90-Post-Processing-Stack/README.ru.md">Теория</a> , 
       <a href="Topics/11-Post-processing/90-Post-Processing-Stack/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>91</strong></td>
+    <td><code>Renderer Features</code> в URP: Создание кастомных проходов рендеринга и full-screen эффектов</td>
+    <td>
+      <a href="Topics/11-Post-processing/91-Renderer-Features/README.ru.md">Теория</a> , 
+      <a href="Topics/11-Post-processing/91-Renderer-Features/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
