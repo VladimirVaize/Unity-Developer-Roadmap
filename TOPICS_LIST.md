@@ -853,12 +853,20 @@
 
 <table> 
   <tr id="post-processing"> 
-    <td colspan="4" align="center"><h3><strong>Post-processing and Visual Effects (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Post-processing and Visual Effects</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
     <td><em>Description</em></td>
     <td><em>Links</em></td>
+  </tr>
+  <tr>
+    <td><strong>90</strong></td>
+    <td><code>Post-Processing Stack</code> in Unity: Bloom, Depth of Field, Color Grading, Anti-aliasing (Volume Framework)</td>
+    <td>
+      <a href="Topics/11-Post-processing/90-Post-Processing-Stack/README.md">Theory</a> , 
+      <a href="Topics/11-Post-processing/90-Post-Processing-Stack/Task/README.md">Practice</a>
+    </td>
   </tr>
 </table>
 
@@ -1733,6 +1741,14 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>90</strong></td>
+    <td><code>Post-Processing Stack</code> в Unity: Bloom, Depth of Field, Color Grading, Anti-aliasing (Volume Framework)</td>
+    <td>
+      <a href="Topics/11-Post-processing/90-Post-Processing-Stack/README.ru.md">Теория</a> , 
+      <a href="Topics/11-Post-processing/90-Post-Processing-Stack/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
 
