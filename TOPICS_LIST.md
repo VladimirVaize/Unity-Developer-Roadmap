@@ -1735,7 +1735,7 @@
 
 <table>
   <tr id="постобработка">
-    <td colspan="4", align="center"><h3><strong>Постобработка и визуальные эффекты (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Постобработка и визуальные эффекты</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
