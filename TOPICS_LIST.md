@@ -889,6 +889,14 @@
     <td><em>Description</em></td>
     <td><em>Links</em></td>
   </tr>
+  <tr>
+    <td><strong>92</strong></td>
+    <td><code>Compute Shaders</code> in Unity: Using GPU for Parallel Computing (Physics, Procedural Generation)</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/README.md">Theory</a> , 
+      <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1778,5 +1786,13 @@
     <td><em>№</em></td>
     <td><em>Описание</em></td>
     <td><em>Ссылки</em></td>
+  </tr>
+  <tr>
+    <td><strong>92</strong></td>
+    <td><code>Compute Shaders</code> в Unity: Использование GPU для параллельных вычислений (физика, процедурная генерация)</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/README.ru.md">Теория</a> , 
+      <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/Task/README.ru.md">Практика</a>
+    </td>
   </tr>
 </table>
