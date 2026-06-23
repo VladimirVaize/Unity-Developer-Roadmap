@@ -882,7 +882,7 @@
 
 <table> 
   <tr id="exotics"> 
-    <td colspan="4" align="center"><h3><strong>Exotics and Advanced GameDev (WIP)</strong></h3></td> 
+    <td colspan="4" align="center"><h3><strong>Exotics and Advanced GameDev</strong></h3></td> 
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -891,7 +891,7 @@
   </tr>
   <tr>
     <td><strong>92</strong></td>
-    <td><code>Compute Shaders</code> in Unity: Using GPU for Parallel Computing (Physics, Procedural Generation)</td>
+    <td><code>Compute Shaders</code> in Unity: Using GPU for Parallel Computing <br>(Physics, Procedural Generation)</td>
     <td>
       <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/README.md">Theory</a> , 
       <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/Task/README.md">Practice</a>
@@ -1780,7 +1780,7 @@
 
 <table>
   <tr id="экзотика">
-    <td colspan="4", align="center"><h3><strong>Экзотика и продвинутый GameDev (WIP)</strong></h3></td>
+    <td colspan="4", align="center"><h3><strong>Экзотика и продвинутый GameDev</strong></h3></td>
   </tr>
   <tr>
     <td><em>№</em></td>
@@ -1789,7 +1789,7 @@
   </tr>
   <tr>
     <td><strong>92</strong></td>
-    <td><code>Compute Shaders</code> в Unity: Использование GPU для параллельных вычислений (физика, процедурная генерация)</td>
+    <td><code>Compute Shaders</code> в Unity: Использование GPU для параллельных вычислений <br>(физика, процедурная генерация)</td>
     <td>
       <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/Task/README.ru.md">Практика</a>
