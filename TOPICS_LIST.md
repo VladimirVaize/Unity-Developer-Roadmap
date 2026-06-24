@@ -897,6 +897,14 @@
       <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>93</strong></td>
+    <td><code>DOTS</code> (Data-Oriented Technology Stack): Entities, ECS — Architecture for High-Performance Projects</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/93-DOTS/README.md">Theory</a> , 
+      <a href="Topics/12-Advanced-Topics/93-DOTS/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1793,6 +1801,14 @@
     <td>
       <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/92-Compute-Shaders/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>93</strong></td>
+    <td><code>DOTS</code> (Data-Oriented Technology Stack): Entities, ECS — архитектура для высокопроизводительных проектов</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/93-DOTS/README.ru.md">Теория</a> , 
+      <a href="Topics/12-Advanced-Topics/93-DOTS/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
