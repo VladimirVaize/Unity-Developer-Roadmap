@@ -905,6 +905,14 @@
       <a href="Topics/12-Advanced-Topics/93-DOTS/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>94</strong></td>
+    <td><code>Netcode</code> for GameObjects (NGO): Authoritative Server, Client-Server Architecture, RPC</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/94-Netcode/README.md">Theory</a> , 
+      <a href="Topics/12-Advanced-Topics/94-Netcode/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1809,6 +1817,14 @@
     <td>
       <a href="Topics/12-Advanced-Topics/93-DOTS/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/93-DOTS/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>94</strong></td>
+    <td><code>Netcode</code> for GameObjects (NGO): Авторитетный сервер, клиент-серверная архитектура, RPC</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/94-Netcode/README.ru.md">Теория</a> , 
+      <a href="Topics/12-Advanced-Topics/94-Netcode/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
