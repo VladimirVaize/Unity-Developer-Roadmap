@@ -1805,7 +1805,7 @@
   </tr>
   <tr>
     <td><strong>93</strong></td>
-    <td><code>DOTS</code> (Data-Oriented Technology Stack): Entities, ECS — архитектура для высокопроизводительных проектов</td>
+    <td><code>DOTS</code> (Data-Oriented Technology Stack): <br>Entities, ECS — архитектура для высокопроизводительных проектов</td>
     <td>
       <a href="Topics/12-Advanced-Topics/93-DOTS/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/93-DOTS/Task/README.ru.md">Практика</a>
