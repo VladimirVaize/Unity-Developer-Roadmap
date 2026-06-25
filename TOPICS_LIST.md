@@ -913,6 +913,13 @@
       <a href="Topics/12-Advanced-Topics/94-Netcode/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>95</strong></td>
+    <td><code>Mirror and Photon</code>: Alternative Networking Solutions for Unity Multiplayer</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/95-Mirror-And-Photon/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1825,6 +1832,13 @@
     <td>
       <a href="Topics/12-Advanced-Topics/94-Netcode/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/94-Netcode/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>95</strong></td>
+    <td><code>Mirror и Photon</code>: Альтернативные сетевые решения для мультиплеера в Unity</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/95-Mirror-And-Photon/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
