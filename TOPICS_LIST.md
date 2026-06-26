@@ -922,7 +922,7 @@
   </tr>
   <tr>
     <td><strong>96</strong></td>
-    <td><code>New Input System</code> in Unity: Action Maps, Processors, Interactions — Modern Replacement for Old Input Manager</td>
+    <td><code>New Input System</code> in Unity: Action Maps, Processors, <br>Interactions — Modern Replacement for Old Input Manager</td>
     <td>
       <a href="Topics/12-Advanced-Topics/96-New-Input-System/README.md">Theory</a>
     </td>
@@ -1850,7 +1850,7 @@
   </tr>
   <tr>
     <td><strong>96</strong></td>
-    <td><code>Новый Input System</code> в Unity: Action Maps, Processors, Interactions — современная замена старого Input Manager</td>
+    <td><code>Новый Input System</code> в Unity: Action Maps, Processors, <br>Interactions — современная замена старого Input Manager</td>
     <td>
       <a href="Topics/12-Advanced-Topics/96-New-Input-System/README.ru.md">Теория</a>
     </td>
