@@ -935,6 +935,13 @@
       <a href="Topics/12-Advanced-Topics/97-UI-Toolkit/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>98</strong></td>
+    <td><code>Asset Store and Packages</code>: Package Manager, Asset Import, Dependency Updates, Creating Custom Packages</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/98-Asset-Store/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1869,6 +1876,13 @@
     <td>
       <a href="Topics/12-Advanced-Topics/97-UI-Toolkit/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/97-UI-Toolkit/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>98</strong></td>
+    <td><code>Asset Store</code> и пакеты: Package Manager, импорт ассетов, обновление зависимостей, создание собственных пакетов</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/98-Asset-Store/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
