@@ -927,6 +927,14 @@
       <a href="Topics/12-Advanced-Topics/96-New-Input-System/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>97</strong></td>
+    <td><code>UI Toolkit</code>: A New Way to Create UI in Unity (Web-Inspired Technology)</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/97-UI-Toolkit/README.md">Theory</a> , 
+      <a href="Topics/12-Advanced-Topics/97-UI-Toolkit/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1853,6 +1861,14 @@
     <td><code>Новый Input System</code> в Unity: Action Maps, Processors, <br>Interactions — современная замена старого Input Manager</td>
     <td>
       <a href="Topics/12-Advanced-Topics/96-New-Input-System/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>97</strong></td>
+    <td><code>UI Toolkit</code>: Новый способ создания UI в Unity (на подобие веб-технологий)</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/97-UI-Toolkit/README.ru.md">Теория</a> , 
+      <a href="Topics/12-Advanced-Topics/97-UI-Toolkit/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
