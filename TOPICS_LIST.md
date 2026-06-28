@@ -1888,7 +1888,7 @@
   </tr>
   <tr>
     <td><strong>98</strong></td>
-    <td><code>Asset Store</code> и пакеты: Package Manager, импорт ассетов, обновление зависимостей, создание собственных пакетов</td>
+    <td><code>Asset Store</code> и пакеты: Package Manager, импорт ассетов, <br>обновление зависимостей, создание собственных пакетов</td>
     <td>
       <a href="Topics/12-Advanced-Topics/98-Asset-Store/README.ru.md">Теория</a>
     </td>
