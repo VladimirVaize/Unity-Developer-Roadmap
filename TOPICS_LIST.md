@@ -942,6 +942,14 @@
       <a href="Topics/12-Advanced-Topics/98-Asset-Store/README.md">Theory</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>99</strong></td>
+    <td><code>Localization</code> in Unity: Multilingual Support, UI Adaptation, Text and Font Management</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/99-Localization/README.md">Theory</a> , 
+      <a href="Topics/12-Advanced-Topics/99-Localization/Task/README.md">Practice</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1883,6 +1891,14 @@
     <td><code>Asset Store</code> и пакеты: Package Manager, импорт ассетов, обновление зависимостей, создание собственных пакетов</td>
     <td>
       <a href="Topics/12-Advanced-Topics/98-Asset-Store/README.ru.md">Теория</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>99</strong></td>
+    <td><code>Локализация</code> в Unity: Мультиязычность, адаптация UI под разные языки, работа с текстом и шрифтами</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/99-Localization/README.ru.md">Теория</a> , 
+      <a href="Topics/12-Advanced-Topics/99-Localization/Task/README.ru.md">Практика</a>
     </td>
   </tr>
 </table>
