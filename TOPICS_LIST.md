@@ -1895,7 +1895,7 @@
   </tr>
   <tr>
     <td><strong>99</strong></td>
-    <td><code>Локализация</code> в Unity: Мультиязычность, адаптация UI под разные языки, работа с текстом и шрифтами</td>
+    <td><code>Локализация</code> в Unity: Мультиязычность, адаптация UI под разные языки, <br>работа с текстом и шрифтами</td>
     <td>
       <a href="Topics/12-Advanced-Topics/99-Localization/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/99-Localization/Task/README.ru.md">Практика</a>
