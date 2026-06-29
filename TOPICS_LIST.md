@@ -1910,7 +1910,7 @@
   </tr>
   <tr>
     <td><strong>100</strong></td>
-    <td><code>Система достижений</code> и <code>аналитика</code>: Интеграция с платформами (Google Play, iOS GameCenter), сторонние SDK</td>
+    <td><code>Система достижений</code> и <code>аналитика</code>: <br>Интеграция с платформами (Google Play, iOS GameCenter), сторонние SDK</td>
     <td>
       <a href="Topics/12-Advanced-Topics/100-Achievement-System/README.ru.md">Теория</a>
     </td>
