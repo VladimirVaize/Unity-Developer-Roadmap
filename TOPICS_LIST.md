@@ -950,6 +950,13 @@
       <a href="Topics/12-Advanced-Topics/99-Localization/Task/README.md">Practice</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>100</strong></td>
+    <td><code>Achievement System</code> and <code>Analytics</code>: Platform Integration (Google Play, iOS GameCenter), Third-Party SDKs</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/100-Achievement-System/README.md">Theory</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -1899,6 +1906,13 @@
     <td>
       <a href="Topics/12-Advanced-Topics/99-Localization/README.ru.md">Теория</a> , 
       <a href="Topics/12-Advanced-Topics/99-Localization/Task/README.ru.md">Практика</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>100</strong></td>
+    <td><code>Система достижений</code> и <code>аналитика</code>: Интеграция с платформами (Google Play, iOS GameCenter), сторонние SDK</td>
+    <td>
+      <a href="Topics/12-Advanced-Topics/100-Achievement-System/README.ru.md">Теория</a>
     </td>
   </tr>
 </table>
